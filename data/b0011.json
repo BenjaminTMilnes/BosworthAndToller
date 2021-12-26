@@ -5,14 +5,122 @@
             "heading": "\u00e6fter",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adverb",
-            "meaning": "after, then, afterwards",
+            "modernEnglishMeanings": [
+                "after, then, afterwards"
+            ],
+            "latinMeanings": [
+                "post, postea, exinde"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6fter si\u00f0\u00f0an",
-                    "modernEnglish": "ever afterwards, from thenceforth",
-                    "latin": "",
-                    "text": "&AElig;fter si&eth;&eth;an <I>ever afterwards, from thenceforth,</I>"
+                    "modernEnglish": "",
+                    "latin": "ever afterwards, from thenceforth",
+                    "references": [
+                        [
+                            "Cd.",
+                            [
+                                "26"
+                            ]
+                        ],
+                        [
+                            "Th.",
+                            [
+                                "35",
+                                "6"
+                            ]
+                        ],
+                        [
+                            "Gen.",
+                            [
+                                "550"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                },
+                {
+                    "oldEnglish": "\u00c6fter to aldre",
+                    "modernEnglish": "",
+                    "latin": "for ever after",
+                    "references": [
+                        [
+                            "Cd.",
+                            [
+                                "22"
+                            ]
+                        ],
+                        [
+                            "Th.",
+                            [
+                                "28",
+                                "15"
+                            ]
+                        ],
+                        [
+                            "Gen.",
+                            [
+                                "436"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                },
+                {
+                    "oldEnglish": "\u00d0\u00e6m eafera w\u00e6s \u00e6fter cenned",
+                    "modernEnglish": "",
+                    "latin": "a son was afterwards born to him",
+                    "references": [
+                        [
+                            "Beo. Th.",
+                            [
+                                "24"
+                            ]
+                        ],
+                        [
+                            "B.",
+                            [
+                                "12"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                },
+                {
+                    "oldEnglish": "Word \u00e6fter cw\u00e6\u00fe",
+                    "modernEnglish": "",
+                    "latin": "then he spake these words.",
+                    "references": [
+                        [
+                            "Beo. Th.",
+                            [
+                                "636"
+                            ]
+                        ],
+                        [
+                            "B.",
+                            [
+                                "315"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                },
+                {
+                    "oldEnglish": "\u00c6\u0301r o\u00f0\u00f0e \u00e6fter",
+                    "modernEnglish": "",
+                    "latin": "sooner or later",
+                    "references": [
+                        [
+                            "Exon.",
+                            [
+                                "32"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fter</B> ; <I>adv. After, then, afterwards;</I> post, postea, exinde :-- &AElig;fter si&eth;&eth;an <I>ever afterwards, from thenceforth,</I> Cd. 26; Th. 35, 6; Gen. 550. &AElig;fter to aldre <I>for ever after,</I> Cd. 22; Th. 28, 15; Gen. 436. &ETH;&aelig;m eafera w&aelig;s &aelig;fter cenned <I>a son was afterwards born to him,</I> Beo. Th. 24; B. 12. Word &aelig;fter cw&aelig;&thorn; <I>then he spake these words.</I> Beo. Th. 636; B. 315. &AElig-acute;r o&eth;&eth;e &aelig;fter <I>sooner or later,</I> Exon. 32b; Th. 103, 22; Cri. 1692. Ic w&aacute;t &aelig;fter n&uacute; hw&aacute; mec ferede ofer fl&oacute;das <I>now afterwards I know who conveyed me over the floods,</I> Andr. Kmbl. 1808; An. 906. &ETH;&aelig-acute;r sceal ylda cwealm &aelig;fter wyr&thorn;an <I>then must slaughter of men take place afterwards,</I> 364; An. 182. Sw&aacute; &eth;as foldan f&aelig;&eth;me bew&iacute;nde&thorn; &eth;es e&aacute;strodor and &aelig;fter west <I>quantum ortus distat ab occasu.</I> Ps. Th. 102, 12."
@@ -23,14 +131,21 @@
                 "\u00e6ftra"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adjective",
-            "meaning": "compar. of",
+            "modernEnglishMeanings": [
+                "compar. of"
+            ],
+            "latinMeanings": [
+                "posterior, sequens, alter, secundus"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00d0y\u0301 \u00e6fteran d\u00e6ge",
-                    "modernEnglish": "sequenti die",
-                    "latin": "",
-                    "text": "&ETH;&yacute; &aelig;fteran d&aelig;ge <I>sequenti die,</I>"
+                    "modernEnglish": "",
+                    "latin": "sequenti die",
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;ftera,</B> &aelig;ftra; <I>adj. compar. of</I> &aelig;fter, -- <I>Hinder, next, second;</I> posterior, sequens, alter, secundus :-- &ETH;&yacute; &aelig;fteran d&aelig;ge <I>sequenti die,</I> Lk. Bos. 13, 33. &ETH;&aelig;s &aelig;fteran mon&thorn;es <I>mensis secundi,</I> Ex. 16, l. On &eth;am forman d&aelig;ge &eth;&aelig;s &aelig;ftran mon&thorn;es <I>primo die mensis secundi,</I> Num. 1, 18. Se&oacute; &aelig;ftre, <I>i.e.</I> e&aacute;, Ethiopia land bel&iacute;ge&thorn; &uacute;ton <I>the next river encompasses the country of Ethiopia,</I> Cd. 12 ; Th. 15, 4; Gen. 228. Si&eth;&eth;an ic ongon on &eth;one &aelig;fteran &aacute;nseld b&uacute;gan <I>after Ihad begun to live in this second hermitage,</I> Exon, 50b; Th. 176, 22 ; G&uacute;. 1214."
@@ -41,23 +156,51 @@
                 "[=\u00e6ftergenga"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "q.v.",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "q.v.",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;fter-boren</B> [=&aelig;ftergenga, <I>q.v.</I>] <I>part. Born after the father's death;</I> posthumus, &AElig;lfc. Gr. 47; Som. 48, 32."
         },
         {
             "heading": "\u00e6fter-cwe\u00f0an",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {
+                "p": "-cw&aelig;&thorn;",
+                "pp": "-cweden"
+            },
             "partOfSpeech": "verb",
-            "meaning": "to speak after, repeat, to answer, revoke, renounce, abjure",
+            "modernEnglishMeanings": [
+                "to speak after, repeat, to answer, revoke, renounce, abjure"
+            ],
+            "latinMeanings": [
+                "repetere, revocare"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Bebea\u0301d he \u00f0\u00e6t him mon lengran cwidas beforan cw\u00e6de, and he symle gede\u0301feli\u0301ce \u00e6ftercw\u00e6\u00fe",
-                    "modernEnglish": "he ordered longer sayings to be spoken before him, and he always repeated them properly",
-                    "latin": "",
-                    "text": "Bebe&aacute;d he &eth;&aelig;t him mon lengran cwidas beforan cw&aelig;de, and he symle ged&eacute;fel&iacute;ce &aelig;ftercw&aelig;&thorn; <I>he ordered longer sayings to be spoken before him, and he always repeated them properly,</I>"
+                    "modernEnglish": "",
+                    "latin": "he ordered longer sayings to be spoken before him, and he always repeated them properly",
+                    "references": [
+                        [
+                            "Bd.",
+                            [
+                                "5",
+                                "2"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fter-cwe&eth;an;</B> <I>p.</I> -cw&aelig;&thorn;; <I>pp.</I> -cweden <I>To speak after, repeat, to answer, revoke, renounce, abjure;</I> repetere, revocare :-- Bebe&aacute;d he &eth;&aelig;t him mon lengran cwidas beforan cw&aelig;de, and he symle ged&eacute;fel&iacute;ce &aelig;ftercw&aelig;&thorn; <I>he ordered longer sayings to be spoken before him, and he always repeated them properly,</I> Bd. 5, 2; S. 615, 15. His br&oacute;&eth;er gri&thorn; eall &aelig;ftercw&aelig;&thorn; <I>his brother renounced all peace,</I> Chr. 1094; Th. 360, 23. &AElig;ftercwe&eth;endra lof <I>the praise of the after-speaking</I> [<I>post mortem laudantium</I>], Exon. 82 b; Th. 310, 10; Saef: 72."
@@ -68,14 +211,42 @@
             "pluralForms": [
                 "an"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/masculine",
-            "meaning": "after-ale, small beer",
+            "modernEnglishMeanings": [
+                "after-ale, small beer"
+            ],
+            "latinMeanings": [
+                ""
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6fter-eala",
-                    "modernEnglish": "sapa",
-                    "latin": "",
-                    "text": "&AElig;fter-eala <I>sapa,</I>"
+                    "modernEnglish": "",
+                    "latin": "sapa",
+                    "references": [
+                        [
+                            "&AElig;lfc. Gl.",
+                            [
+                                "33"
+                            ]
+                        ],
+                        [
+                            "Som.",
+                            [
+                                "62",
+                                "22"
+                            ]
+                        ],
+                        [
+                            "Wrt. Voc.",
+                            [
+                                "28",
+                                "5"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fter-eala,</B> an; <I>m. After-ale, small beer</I> :-- &AElig;fter-eala <I>sapa,</I> &AElig;lfc. Gl. 33; Som. 62, 22; Wrt. Voc. 28, 5."
@@ -84,9 +255,19 @@
             "heading": "\u00e6fter-f\u00e6ce",
             "alternativeSpellings": [],
             "pluralForms": [],
-            "partOfSpeech": "adverb",
-            "meaning": "",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "adv.",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;fter-f&aelig;ce;</B> <I>adv.</I> [&aelig;fter <I>after, and the dat. of</I> f&aelig;c <I>a space</I>] <I>Afterwards, after that;</I> postmodum. v. f&aelig;c."
         },
         {
@@ -95,23 +276,58 @@
             "pluralForms": [
                 "es"
             ],
-            "partOfSpeech": "noun/masculine",
-            "meaning": "a follower",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "m. A follower",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;fter-folgere,</B> es; <I>m. A follower;</I> successor, Ors. 3, 11; Bos. 74, 36."
         },
         {
             "heading": "\u00e6fter-folgian",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {
+                "p": "ode",
+                "pp": "od"
+            },
             "partOfSpeech": "verb",
-            "meaning": "to follow after, pursue",
+            "modernEnglishMeanings": [
+                "to follow after, pursue"
+            ],
+            "latinMeanings": [
+                "subsequi, persequi"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Him \u00e6fterfolgiende w\u00e6\u0301ron",
-                    "modernEnglish": "they were pursuing him",
-                    "latin": "",
-                    "text": "Him &aelig;fterfolgiende w&aelig-acute;ron <I>they were pursuing him,</I>"
+                    "modernEnglish": "",
+                    "latin": "they were pursuing him",
+                    "references": [
+                        [
+                            "Ors.",
+                            [
+                                "1",
+                                "10"
+                            ]
+                        ],
+                        [
+                            "Bos.",
+                            [
+                                "32",
+                                "25"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fter-folgian;</B> <I>p.</I> ode ; <I>pp.</I> od <I>To follow after, pursue;</I> subsequi, persequi :-- Him &aelig;fterfolgiende w&aelig-acute;ron <I>they were pursuing him,</I> Ors. 1, 10; Bos. 32, 25."
@@ -122,9 +338,19 @@
             "pluralForms": [
                 "e"
             ],
-            "partOfSpeech": "noun/feminine",
-            "meaning": "a following after, a sequence",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "f. A following after, a sequence",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;fter-fylging,</B> e; <I>f. A following after, a sequence;</I> sectatio, suc-cessio. v. fylging."
         },
         {
@@ -133,14 +359,32 @@
                 "-filian"
             ],
             "pluralForms": [],
+            "conjugations": {
+                "p": "de",
+                "pp": "ed"
+            },
             "partOfSpeech": "verb",
-            "meaning": "to follow",
+            "modernEnglishMeanings": [
+                "to follow"
+            ],
+            "latinMeanings": [
+                "sequi, prosequi, subsequi"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00d0\u00e6s s\u00e6\u0301s smyltnys \u00e6fterfylige\u00fe",
-                    "modernEnglish": "serenitas mares prosequetur",
-                    "latin": "",
-                    "text": "&ETH;&aelig;s s&aelig-acute;s smyltnys &aelig;fterfylige&thorn; <I>serenitas mares prosequetur,</I>"
+                    "modernEnglish": "",
+                    "latin": "serenitas mares prosequetur",
+                    "references": [
+                        [
+                            "Bd.",
+                            [
+                                "3",
+                                "15"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fter-fylian,</B> -filian; <I>p.</I> de; <I>pp.</I> ed <I>To follow</I> or <I>come after, to succeed;</I> sequi, prosequi, subsequi :-- &ETH;&aelig;s s&aelig-acute;s smyltnys &aelig;fterfylige&thorn; <I>serenitas mares prosequetur,</I> Bd. 3,15; S. 541, 35. &ETH;&aelig;s &aelig;fterfiliendan t&aacute;cnes <I>sigui sequentis,</I> Ex. 4, 8."
@@ -153,14 +397,29 @@
             "pluralForms": [
                 "es"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/masculine",
-            "meaning": "one who follows",
+            "modernEnglishMeanings": [
+                "one who follows"
+            ],
+            "latinMeanings": [
+                "successor"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Ac Oswald his \u00e6fterfyligend hi\u0301 ge-endade swa\u0301 we \u00e6\u0301r beforan s\u00e6\u0301don",
-                    "modernEnglish": "sed successor ejus Oswaldus perfecit at supra docuimus",
-                    "latin": "",
-                    "text": "Ac Oswald his &aelig;fterfyligend h&iacute; ge-endade sw&aacute; we &aelig-acute;r beforan s&aelig-acute;don <I>sed successor ejus Oswaldus perfecit at supra docuimus,</I>"
+                    "modernEnglish": "",
+                    "latin": "sed successor ejus Oswaldus perfecit at supra docuimus",
+                    "references": [
+                        [
+                            "Bd.",
+                            [
+                                "2",
+                                "20"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fter-fyligend,</B> -fylgend, es; <I>m. One who follows</I> or <I>succeeds, a follower ;</I> successor :-- Ac Oswald his &aelig;fterfyligend h&iacute; ge-endade sw&aacute; we &aelig-acute;r beforan s&aelig-acute;don <I>sed successor ejus Oswaldus perfecit at supra docuimus,</I> Bd. 2, 20; S. 521, 36: Bd. 5, 23; S. 646, 2."
@@ -173,9 +432,19 @@
             "pluralForms": [
                 "e"
             ],
-            "partOfSpeech": "noun/feminine",
-            "meaning": "a following after, a succession, succeeding",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "f. A following after, a succession, succeeding",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;fter-fylignes,</B> -ness, e; <I>f. A following after, a succession, succeeding;</I> successio. v. fylignes."
         },
         {
@@ -184,9 +453,19 @@
                 "[ga\u0301n"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "to go",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "to go",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;fter-g&aacute;n</B> [g&aacute;n <I>to go</I>] <I>To follow after;</I> subsequi, Past. 15, 2 ?"
         },
         {
@@ -197,9 +476,19 @@
             "pluralForms": [
                 "e"
             ],
-            "partOfSpeech": "noun/feminine",
-            "meaning": "",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "f.",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;fter-gencnys,</B> -nyss, e; <I>f.</I> [gengnys <I>a going</I>] <I>Extremity;</I> extremitas, R. Ben. Interl. 7."
         },
         {
@@ -208,14 +497,21 @@
             "pluralForms": [
                 "an"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/masculine",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "successor, posthumus"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6ftergenga",
-                    "modernEnglish": "posthumus",
-                    "latin": "",
-                    "text": "&AElig;ftergenga <I>posthumus,</I>"
+                    "modernEnglish": "",
+                    "latin": "posthumus",
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fter-genga,</B> an; <I>m.</I> [genga <I>goer</I>] <I>One who goes</I> or <I>follows after, a follower;</I> successor, posthumus :-- &AElig;ftergenga <I>posthumus,</I> &aelig;fter boren, se &eth;e bi&thorn; geboren &aelig;fter bebyrgedum f&aelig;der <I>one who is born after the father has been buried,</I> &AElig;lfc. Gr. 47; Som. 48, 32. &ETH;&uacute; me ne derige, ne m&iacute;num &aelig;ftergengum <I>ne noceas mihi et posteris meis,</I> Gen. 21, 23."
@@ -228,9 +524,19 @@
             "pluralForms": [
                 "e"
             ],
-            "partOfSpeech": "noun/feminine",
-            "meaning": "succession",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "f. Succession",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;fter-gengnys,</B> -nyss, e; <I>f. Succession;</I> posteritas. v. &aelig;fter-gencnys."
         },
         {
@@ -242,9 +548,19 @@
             "pluralForms": [
                 "es"
             ],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "An after-payment, a paying again",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "An after-payment, a paying again",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;fter-gild,</B> -gyld, es; a. <I>An after-payment, a paying again</I> or <I>in addition;</I> secunda <I>vel</I> iterata compensatio, L. C. S. 24; Th. i. 390, 7."
         },
         {
@@ -253,14 +569,36 @@
             "pluralForms": [
                 "e"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/feminine",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "insequens calor"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Mid ungemetli\u0301cum h\u00e6rfest-w\u00e6tan and \u00e6fterh\u00e6\u0301te",
-                    "modernEnglish": "from heavy harvest-rains and after-heat.",
-                    "latin": "",
-                    "text": "Mid ungemetl&iacute;cum h&aelig;rfest-w&aelig;tan and &aelig;fterh&aelig-acute;te <I>from heavy harvest-rains and after-heat.</I>"
+                    "modernEnglish": "",
+                    "latin": "from heavy harvest-rains and after-heat.",
+                    "references": [
+                        [
+                            "Ors.",
+                            [
+                                "3",
+                                "3"
+                            ]
+                        ],
+                        [
+                            "Bos.",
+                            [
+                                "55",
+                                "23"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fter-h&aelig;tu,</B> e; <I>f.</I> [&aelig;fter <I>after,</I> h&aelig-acute;tu <I>heat</I>] <I>After-heat;</I> insequens calor :-- Mid ungemetl&iacute;cum h&aelig;rfest-w&aelig;tan and &aelig;fterh&aelig-acute;te <I>from heavy harvest-rains and after-heat.</I> Ors. 3, 3; Bos. 55, 23."
@@ -269,14 +607,32 @@
             "heading": "\u00e6fter-hy\u0301rigean",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {
+                "p": "de",
+                "pp": "ed"
+            },
             "partOfSpeech": "verb",
-            "meaning": "to follow another's example, to imitate, resemble",
+            "modernEnglishMeanings": [
+                "to follow another's example, to imitate, resemble"
+            ],
+            "latinMeanings": [
+                "imitari"
+            ],
             "examples": [
                 {
                     "oldEnglish": "He wilnode \u00e6fterhy\u0301rigean",
-                    "modernEnglish": "he wished to imitate",
-                    "latin": "",
-                    "text": "He wilnode &aelig;fterh&yacute;rigean <I>he wished to imitate,</I>"
+                    "modernEnglish": "",
+                    "latin": "he wished to imitate",
+                    "references": [
+                        [
+                            "Bd.",
+                            [
+                                "3",
+                                "18"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fter-h&yacute;rigean;</B> <I>p.</I> de; <I>pp.</I> ed <I>To follow another's example, to imitate, resemble;</I> imitari :-- He wilnode &aelig;fterh&yacute;rigean <I>he wished to imitate,</I> Bd. 3, 18; S. 545, 44."
@@ -287,14 +643,39 @@
             "pluralForms": [
                 "es"
             ],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "n. An after-loan, reward, recompense, retribution",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                "pr&aelig;-miuin,nierces"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00feearl \u00e6fterlea\u0301n",
-                    "modernEnglish": "hard retribution",
-                    "latin": "",
-                    "text": "&thorn;earl &aelig;fterle&aacute;n <I>hard retribution,</I>"
+                    "modernEnglish": "",
+                    "latin": "hard retribution",
+                    "references": [
+                        [
+                            "Cd.",
+                            [
+                                "4"
+                            ]
+                        ],
+                        [
+                            "Th.",
+                            [
+                                "5",
+                                "24"
+                            ]
+                        ],
+                        [
+                            "Gen.",
+                            [
+                                "76"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fter-le&aacute;n,</B> es; <I>n. An after-loan, reward, recompense, retribution;</I> pr&aelig;-miuin,nierces :-- &thorn;earl &aelig;fterle&aacute;n <I>hard retribution,</I> Cd. 4; Th. 5, 24; Gen. 76."
@@ -303,23 +684,67 @@
             "heading": "\u00e6fter-li\u0301c",
             "alternativeSpellings": [],
             "pluralForms": [],
-            "partOfSpeech": "adjective",
-            "meaning": "after, second",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "adj. After, second",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;fter-l&iacute;c;</B> <I>adj. After, second;</I> secundus, Cot. 191."
         },
         {
             "heading": "\u00e6fterra",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "second",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                "secundus"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Se \u00e6fterra dea\u0301\u00fe",
-                    "modernEnglish": "the second death",
-                    "latin": "",
-                    "text": "Se &aelig;fterra de&aacute;&thorn; <I>the second death,</I>"
+                    "modernEnglish": "",
+                    "latin": "the second death",
+                    "references": [
+                        [
+                            "Bt.",
+                            [
+                                "19"
+                            ]
+                        ],
+                        [
+                            "Fox",
+                            [
+                                "70",
+                                "18"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                },
+                {
+                    "oldEnglish": "Sende he eft \u00e6fterran si\u0301\u00f0e \u00e6\u0301renddracan",
+                    "modernEnglish": "",
+                    "latin": "he sent messengers again a second time",
+                    "references": [
+                        [
+                            "Bd.",
+                            [
+                                "2",
+                                "12"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fterra</B> <I>second;</I> secundus :-- Se &aelig;fterra de&aacute;&thorn; <I>the second death,</I> Bt. 19; Fox 70, 18. Sende he eft &aelig;fterran s&iacute;&eth;e &aelig-acute;renddracan <I>he sent messengers again a second time,</I> Bd. 2, 12; S. 513, 10. v. &aelig;ftera."
@@ -330,23 +755,50 @@
             "pluralForms": [
                 "es"
             ],
-            "partOfSpeech": "noun/masculine",
-            "meaning": "an",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "m. An",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;fter-r&aacute;p,</B> es; <I>m. An</I> AFTER-ROPE, <I>a crupper;</I> postilena, &AElig;lfc. Gl. 20; Som. 59, 54."
         },
         {
             "heading": "\u00e6fter-ri\u0301dan",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {
+                "p": "-r&aacute;d"
+            },
             "partOfSpeech": "verb",
-            "meaning": ", pl.",
+            "modernEnglishMeanings": [
+                "pp."
+            ],
+            "latinMeanings": [
+                "equo in-sequi"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Hi\u0301g \u00f0a so\u0301na \u00e6fterridon i\u0301delum f\u00e6relde",
-                    "modernEnglish": "secuti sunt eos per viam",
-                    "latin": "",
-                    "text": "H&iacute;g &eth;a s&oacute;na &aelig;fterridon &iacute;delum f&aelig;relde <I>secuti sunt eos per viam,</I>"
+                    "modernEnglish": "",
+                    "latin": "secuti sunt eos per viam",
+                    "references": [
+                        [
+                            "Jos.",
+                            [
+                                "2",
+                                "7"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fter-r&iacute;dan;</B> <I>p.</I> -r&aacute;d<I>, pl.</I> -ridon; <I>pp.</I> -riden <I>To ride after;</I> equo in-sequi :-- H&iacute;g &eth;a s&oacute;na &aelig;fterridon &iacute;delum f&aelig;relde <I>secuti sunt eos per viam,</I> Jos. 2, 7."
@@ -357,14 +809,29 @@
             "pluralForms": [
                 "es"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/masculine",
-            "meaning": "an encountering, meeting, running against one",
+            "modernEnglishMeanings": [
+                "an encountering, meeting, running against one"
+            ],
+            "latinMeanings": [
+                "occursus"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6fterryne his o\u0301\u00fe to hea\u0301hnesse his",
-                    "modernEnglish": "occursws ejus usque ad summum ejus",
-                    "latin": "",
-                    "text": "&AElig;fterryne his &oacute;&thorn; to he&aacute;hnesse his <I>occursws ejus usque ad summum ejus,</I>"
+                    "modernEnglish": "",
+                    "latin": "occursws ejus usque ad summum ejus",
+                    "references": [
+                        [
+                            "Ps. Spl.",
+                            [
+                                "18",
+                                "7"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fter-ryne,</B> es; <I>m. An encountering, meeting, running against one;</I> occursus :-- &AElig;fterryne his &oacute;&thorn; to he&aacute;hnesse his <I>occursws ejus usque ad summum ejus,</I> Ps. Spl. 18, 7."
@@ -375,14 +842,21 @@
             "pluralForms": [
                 "es"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/masculine",
-            "meaning": "the after-song",
+            "modernEnglishMeanings": [
+                "the after-song"
+            ],
+            "latinMeanings": [
+                "posterior cantus"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Mid \u00f0am \u00e6fter-sange",
-                    "modernEnglish": "with the after-song",
-                    "latin": "",
-                    "text": "Mid &eth;am &aelig;fter-sange <I>with the after-song,</I>"
+                    "modernEnglish": "",
+                    "latin": "with the after-song",
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fter-sang,</B> es; <I>m. The after-song;</I> posterior cantus :-- Mid &eth;am &aelig;fter-sange <I>with the after-song,</I> L. &AElig;lf. P. 31; Th. ii. 376, 6."
@@ -393,9 +867,19 @@
             "pluralForms": [
                 "es"
             ],
-            "partOfSpeech": "noun/masculine",
-            "meaning": "an after-singer",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "m. An after-singer",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;fter-singend,</B> es; <I>m. An after-singer;</I> succentor, Wrt. Voc. 28, 21."
         },
         {
@@ -404,23 +888,49 @@
             "pluralForms": [
                 "e"
             ],
-            "partOfSpeech": "noun/feminine",
-            "meaning": "after-speech",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "f. After-speech",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;fter-spr&aelig;c,</B> e; <I>f. After-speech</I> or <I>claim;</I> repostulatio, L. O. 7; Th. i. 180, 23."
         },
         {
             "heading": "\u00e6fter-sprecan",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {
+                "p": "-spr&aelig;c"
+            },
             "partOfSpeech": "verb",
-            "meaning": "pl.",
+            "modernEnglishMeanings": [
+                "pp."
+            ],
+            "latinMeanings": [
+                "petere, repetere"
+            ],
             "examples": [
                 {
                     "oldEnglish": "&Aacute;gnung bi\u00fe ne\u0301r \u00f0am \u00f0e h\u00e6f\u00fe, \u00f0onne \u00f0am \u00f0e \u00e6ftersprec\u00fe",
-                    "modernEnglish": "possession is always nearer to him who has, than to him who claims",
-                    "latin": "",
-                    "text": "&Aacute;gnung bi&thorn; n&eacute;r &eth;am &eth;e h&aelig;f&thorn;, &eth;onne &eth;am &eth;e &aelig;ftersprec&thorn; <I>possession is always nearer to him who has, than to him who claims,</I>"
+                    "modernEnglish": "",
+                    "latin": "possession is always nearer to him who has, than to him who claims",
+                    "references": [
+                        [
+                            "L. Eth. ii.",
+                            [
+                                "9"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fter-sprecan;</B> <I>p.</I> -spr&aelig;c, <I>pl.</I> -spr&aelig-acute;con; <I>pp.</I> -sprecen [sprecan <I>to speak</I>] <I>To claim;</I> petere, repetere :-- &Aacute;gnung bi&thorn; n&eacute;r &eth;am &eth;e h&aelig;f&thorn;, &eth;onne &eth;am &eth;e &aelig;ftersprec&thorn; <I>possession is always nearer to him who has, than to him who claims,</I> L. Eth. ii. 9; Th. i. 290, 21."
@@ -431,14 +941,39 @@
                 "-spyrgean"
             ],
             "pluralForms": [],
+            "conjugations": {
+                "p": "ede",
+                "pp": "ed"
+            },
             "partOfSpeech": "verb",
-            "meaning": "to inquire after, examine",
+            "modernEnglishMeanings": [
+                "to inquire after, examine"
+            ],
+            "latinMeanings": [
+                "examinare"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Gif ge hit willa\u00fe \u00e6fterspyrian",
-                    "modernEnglish": "if ye will examine it",
-                    "latin": "",
-                    "text": "Gif ge hit willa&thorn; &aelig;fterspyrian <I>if ye will examine it,</I>"
+                    "modernEnglish": "",
+                    "latin": "if ye will examine it",
+                    "references": [
+                        [
+                            "Bt.",
+                            [
+                                "16",
+                                "2"
+                            ]
+                        ],
+                        [
+                            "Fox",
+                            [
+                                "52",
+                                "8"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fter-spyrian,</B> -spyrgean; <I>p.</I> ede; <I>pp.</I> ed <I>To inquire after, examine;</I> examinare :-- Gif ge hit willa&thorn; &aelig;fterspyrian <I>if ye will examine it,</I> Bt. 16, 2 ; Fox 52, 8. v. spyrian."
@@ -447,9 +982,19 @@
             "heading": "\u00e6fter-weard",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "After,",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "After",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;fter-weard</B> <I>After,</I> AFTERWARD, <I>following;</I> posterior, secundus: -- Gif he me &aelig;fterweard weor&thorn;e&thorn; <I>if he shall be after</I> [<I>afterward</I>] <I>me,</I> Exon. 104 b ; Th. 397, 3 ; R&auml;. 16, 14. v. &aelig;fte-weard, weard; <I>adj.</I>"
         },
         {
@@ -458,9 +1003,19 @@
                 "-ness"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "e;f. Posterity",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "e;f. Posterity",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;fter-weardnes,</B> -ness, <I>e;f. Posterity;</I> posteritas, Cot. 149."
         },
         {
@@ -469,9 +1024,27 @@
                 "beo\u0301n"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "To be away, absent,",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "To be away, absent",
+                    "references": [
+                        [
+                            "Bd.",
+                            [
+                                "3",
+                                "15"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;fter-wear&THORN;</B> be&oacute;n <I>To be away, absent,</I> Bd. 3, 15; S. 542, note 6. v. &aelig;fweard."
         },
         {
@@ -482,14 +1055,21 @@
             "pluralForms": [
                 "e"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/feminine",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "&aelig;tas provecta"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Ne ma\u0301gon \u00f0a \u00e6fteryld in \u00f0am \u00e6\u0301restan bl\u00e6\u0301de geberan",
-                    "modernEnglish": "they may not produce",
-                    "latin": "",
-                    "text": "Ne m&aacute;gon &eth;a &aelig;fteryld in &eth;am &aelig-acute;restan bl&aelig-acute;de geberan <I>they may not produce</I>"
+                    "modernEnglish": "",
+                    "latin": "they may not produce",
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fter-yldo,</B> -yld, e; <I>f.</I> I. <I>after-age, old age;</I> &aelig;tas provecta :-- Ne m&aacute;gon &eth;a &aelig;fteryld in &eth;am &aelig-acute;restan bl&aelig-acute;de geberan <I>they may not produce</I> [<I>show</I>] <I>old age in their first strength</I> [<I>youth</I>], Exon. 39b; Th. 132, 3; G&uacute;. 467. II. <I>an after-age, after-time;</I> posterius &aelig;vum :-- Sw&aacute; n&aelig-acute;nig &aelig;fteryldo sy&eth;&eth;an gemunan m&aelig;g <I>so as no after-age since can remember,</I> Bd. 1, 14; S. 482, 22."
@@ -498,14 +1078,51 @@
             "heading": "\u00e6fte-weard",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adjective",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "posterior"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6fteweard lencten",
-                    "modernEnglish": "full spring.",
-                    "latin": "",
-                    "text": "&AElig;fteweard lencten <I>full spring.</I>"
+                    "modernEnglish": "",
+                    "latin": "full spring.",
+                    "references": [
+                        [
+                            "Wrt. Voc.",
+                            [
+                                "53",
+                                "27"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                },
+                {
+                    "oldEnglish": "\u00c6fteweard hea\u0301fod",
+                    "modernEnglish": "",
+                    "latin": "the back of the head",
+                    "references": null,
+                    "text": ""
+                },
+                {
+                    "oldEnglish": "Drihten \u00f0e\u0301 gesett na\u0301 on \u00e6fteweard",
+                    "modernEnglish": "",
+                    "latin": "the Lord will not set thee in the after-part",
+                    "references": [
+                        [
+                            "Deut.",
+                            [
+                                "28",
+                                "13"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fte-weard;</B> <I>adj.</I> [ = &aelig;fter] <I>After, back, late, latter, full;</I> posterior :-- &AElig;fteweard lencten <I>full spring.</I> Wrt. Voc. 53, 27. &AElig;fteweard he&aacute;fod <I>the back of the head,</I> 42, 43. Drihten &eth;&eacute; gesett n&aacute; on &aelig;fteweard <I>the Lord will not set thee in the after-part,</I> Deut. 28,13."
@@ -514,14 +1131,29 @@
             "heading": "\u00e6fte-wearde",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adverb",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "post, pone"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00d0&uacute; gesihst me \u00e6ftewearde",
-                    "modernEnglish": "thou shalt see me behind",
-                    "latin": "",
-                    "text": "&ETH;&uacute; gesihst me &aelig;ftewearde <I>thou shalt see me behind,</I>"
+                    "modernEnglish": "",
+                    "latin": "thou shalt see me behind",
+                    "references": [
+                        [
+                            "Ex.",
+                            [
+                                "33",
+                                "23"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fte-wearde;</B> <I>adv.</I> [&aelig;fter, wearde, weardes] <I>Afterward, after, behind;</I> post, pone :-- &ETH;&uacute; gesihst me &aelig;ftewearde <I>thou shalt see me behind,</I> Ex. 33, 23."
@@ -532,14 +1164,19 @@
             "pluralForms": [
                 "es"
             ],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "m:",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                "simultas, offensa, odium, zelus"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Swindan me dyde \u00e6f\u00feanca mi\u0301n",
-                    "modernEnglish": "tabescere me fecit zelus meus",
-                    "latin": "",
-                    "text": "Swindan me dyde &aelig;f&thorn;anca m&iacute;n <I>tabescere me fecit zelus meus,</I>"
+                    "modernEnglish": "",
+                    "latin": "tabescere me fecit zelus meus",
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;f-&thorn;anc,</B> es; <I>m:</I> &aelig;f-&thorn;anea, -&thorn;onca, -&thorn;unca, an; <I>m. Offence, insult, grudge, displeasure, envy, zeal;</I> simultas, offensa, odium, zelus :-- Swindan me dyde &aelig;f&thorn;anca m&iacute;n <I>tabescere me fecit zelus meus,</I> Ps. Spl. M. 118,139. &AElig;f&thorn;onca gefylled <I>full of grudges,</I> Exon. 83 b; Th. 315, 4; Mod. 26. Eald &aelig;f&thorn;oncan edniwedan <I>they have renewed old grudges,</I> 72 b; Th. 271, 20; Jul. 485. &AElig;f&thorn;ancum herian <I>to vex with insults,</I> Cd. 102; Th. 135, 3; Gen. 2237."
@@ -548,9 +1185,19 @@
             "heading": "\u00e6ftyr",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "after, according to",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "after, according to",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;ftyr</B> <I>after, according to;</I> secundum, Mt. Bos. 9, 29. v. &aelig;fter I. 3."
         },
         {
@@ -559,14 +1206,29 @@
                 "\u00e6f-ward"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adjective",
-            "meaning": "absent, distant",
+            "modernEnglishMeanings": [
+                "absent, distant"
+            ],
+            "latinMeanings": [
+                "absens"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Li\u0301cumli\u0301ce \u00e6fward",
-                    "modernEnglish": "corporaliter absens",
-                    "latin": "",
-                    "text": "L&iacute;cuml&iacute;ce &aelig;fward <I>corporaliter absens,</I>"
+                    "modernEnglish": "",
+                    "latin": "corporaliter absens",
+                    "references": [
+                        [
+                            "Bd.",
+                            [
+                                "3",
+                                "15"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;f-weard,</B> &aelig;f-ward; <I>adj. Absent, distant;</I> absens :-- L&iacute;cuml&iacute;ce &aelig;fward <I>corporaliter absens,</I> Bd. 3,15 ; S. 542, 6."
@@ -579,14 +1241,35 @@
             "pluralForms": [
                 "e"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/feminine",
-            "meaning": "absence, removal, posterity",
+            "modernEnglishMeanings": [
+                "absence, removal, posterity"
+            ],
+            "latinMeanings": [
+                "absentia"
+            ],
             "examples": [
                 {
                     "oldEnglish": "For \u00f0i\u0301nre \u00e6fweardnesse",
-                    "modernEnglish": "because of thy absence",
-                    "latin": "",
-                    "text": "For &eth;&iacute;nre &aelig;fweardnesse <I>because of thy absence,</I>"
+                    "modernEnglish": "",
+                    "latin": "because of thy absence",
+                    "references": [
+                        [
+                            "Bt.",
+                            [
+                                "10"
+                            ]
+                        ],
+                        [
+                            "Fox",
+                            [
+                                "28",
+                                "28"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;f-weardnes,</B> -ness, e; <I>f. Absence, removal, posterity;</I> absentia :-- For &eth;&iacute;nre &aelig;fweardnesse <I>because of thy absence,</I> Bt. 10; Fox 28, 28."
@@ -597,9 +1280,19 @@
             "pluralForms": [
                 "an"
             ],
-            "partOfSpeech": "noun/masculine",
-            "meaning": "damage, detriment, loss",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "m. Damage, detriment, loss",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;f-werdelsa,</B> an; <I>m. Damage, detriment, loss;</I> detrimentum, damnum, L. Alf. 27 ; Th. i. 50, 28. v. &aelig;f-werdla."
         },
         {
@@ -612,14 +1305,28 @@
             "pluralForms": [
                 "an"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/masculine",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "detrimentum, jactura, damnum"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00feolie \u00f0one \u00e6fwerdlan [\u00e6fwyrdlan MS. H.]",
-                    "modernEnglish": "let him bear the damage",
-                    "latin": "",
-                    "text": "&thorn;olie &eth;one &aelig;fwerdlan [&aelig;fwyrdlan MS. H.] <I>let him bear the damage,</I>"
+                    "modernEnglish": "",
+                    "latin": "let him bear the damage",
+                    "references": [
+                        [
+                            "L. In.",
+                            [
+                                "40"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;f-werdla,</B> &aelig;f-wyrdla, &aelig;-wyrdla, a-wyrdla, an; <I>m.</I> [&aelig;f <I>of,</I> wyrdan <I>to corrupt</I>] <I>Damage, injury, loss, the amercement for it;</I> detrimentum, jactura, damnum :-- &thorn;olie &eth;one &aelig;fwerdlan [&aelig;fwyrdlan MS. H.] <I>let him bear the damage,</I> L. In. 40; Th. i. 126, 16: R. Ben. 2 : Cot. 104."
@@ -628,14 +1335,28 @@
             "heading": "\u00e6\u0301-fyllende",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adjective",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "legem exsequens"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Seo\u0301 circe \u00e6\u0301fyllendra",
-                    "modernEnglish": "the church of the faithful",
-                    "latin": "",
-                    "text": "Se&oacute; circe &aelig-acute;fyllendra <I>the church of the faithful,</I>"
+                    "modernEnglish": "",
+                    "latin": "the church of the faithful",
+                    "references": [
+                        [
+                            "Exon.",
+                            [
+                                "18"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;-fyllende;</B> <I>adj.</I> [&aelig-acute; = <I>law,</I> fyllende <I>part, of</I> fyllan <I>to fill, fulfil] Following the law, faithful;</I> legem exsequens :-- Se&oacute; circe &aelig-acute;fyllendra <I>the church of the faithful,</I> Exon. 18 a; Th. 44, 17; Cri. 704."
@@ -644,14 +1365,33 @@
             "heading": "\u00e6-fyrm\u00fea",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "pl. f.",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                "ablutiones, quisquili&aelig"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6fyrm\u00fea [MS. \u00e6fyrm\u00fee]",
-                    "modernEnglish": "quisquili&aelig;",
-                    "latin": "",
-                    "text": "&AElig;fyrm&thorn;a [MS. &aelig;fyrm&thorn;e] <I>quisquili&aelig;,</I>"
+                    "modernEnglish": "",
+                    "latin": "quisquili&aelig;",
+                    "references": [
+                        [
+                            "&AElig;lfc. Gr.",
+                            [
+                                "13"
+                            ]
+                        ],
+                        [
+                            "Som.",
+                            [
+                                "16",
+                                "22"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;-fyrm&thorn;a;</B> <I>pl. f.</I> [&aelig;, fyrm&thorn;, e; <I>f. washing</I>] <I>Ablutions, the sweepings of a house, the refuse of things</I> or <I>things of no value;</I> ablutiones, quisquili&aelig; :-- &AElig;fyrm&thorn;a [MS. &aelig;fyrm&thorn;e] <I>quisquili&aelig;,</I> &AElig;lfc. Gr. 13; Som. 16, 22."
@@ -662,14 +1402,19 @@
                 "\u00e6ig"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "g.",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                "&aelig;grum, &aelig;gerum; n. an egg; ovum"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Gifhit [cild] \u00e6ges bitt",
-                    "modernEnglish": "if he ask for an egg",
-                    "latin": "",
-                    "text": "Gifhit [cild] &aelig;ges bitt <I>if he ask for an egg,</I>"
+                    "modernEnglish": "",
+                    "latin": "if he ask for an egg",
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&AElig;G,</B> &aelig;ig; <I>g.</I> asges; <I>pl. nom. acc.</I> &aelig;gru; <I>g.</I> &aelig;gra; <I>d.</I> &aelig;grum, &aelig;gerum; n. An EGG; ovum :-- Gifhit [cild] &aelig;ges bitt <I>if he ask for an egg,</I> Homl. Th. i. 250, 9. &ETH;&aelig;t &aelig;g [&aelig;ig <I>MS.</I>] get&aacute;cna&thorn; &eth;one h&aacute;lgan hiht <I>the egg betokens the holy hope,</I> i. 250, 11. Gif he bit &aelig;g si <I>petierit ovum,</I> Lk. Bos. 11, 12. Gen&iacute;m h&aelig;nne &aelig;ges geolocan <I>take the yolk of a hen's egg,</I> L. M. 1, 2; Lchdm, ii. 38, 6. Sce&aacute;wa n&uacute; on &aacute;num &aelig;ge, h&uacute; &eth;&aelig;t hw&iacute;te ne bi&thorn; gemenged to &eth;am geolcan, and bi&thorn; hw&aelig;&eth;ere &aacute;n &aelig;g <I>look now on an egg, how the white is not mingled with the yolk, and yet it is one egg,</I> Homl. Th. i. 40, 27, 28. On &aelig;ge bi&thorn; gioleca on middan <I>in on egg the yolk is in the middle,</I> Bt. Met. Fox 20, 338 ; Met. 20, 169. Of &aelig;gerum <I>from eggs,</I> Exon. 59a; Th. 214, 2 ; Ph. 233. &AElig;gru lecgan <I>to lay eggs,</I> Som."

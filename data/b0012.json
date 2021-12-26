@@ -7,9 +7,19 @@
             "pluralForms": [
                 "e"
             ],
-            "partOfSpeech": "noun/feminine",
-            "meaning": "water, water land, an island, v.",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "f. water, water land, an island, v.",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;g,</B> e; <I>f. water, water land, an island, v.</I> &aelig-acute;ge, &iacute;gg."
         },
         {
@@ -19,50 +29,95 @@
                 "--"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "water, sea",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "water, sea",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;g-</B> used in composition, -- <I>water, sea;</I> aqua, mare. DER. &aelig-acute;g-flota, &aelig-acute;g-weard. v. &iacute;g."
         },
         {
             "heading": "\u00e6\u0301g-",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "Ever, always",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "Ever, always",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;g-</B> <I>Ever, always;</I> semper: either a contraction of the prefixes &aacute;, &aelig-acute;, with a <I>g</I> added, as &aelig-acute;g, or derived from aa = &aacute;, &aacute;wa, &aelig-acute;w. It is used in compound pronouns and adverbs, as, -- &aelig-acute;g-hw&aacute;, &aelig-acute;g-hw&aelig-acute;r, &aelig-acute;g-hwilc, <I>etc;</I> but, in its place, we also find the prefix &aacute; as, -- &aacute;-hw&aelig-acute;r, &aacute;-hwilc, <I>etc.</I> Both &aelig-acute;g- and &aacute;- impart to their compounds a sense of universality."
         },
         {
             "heading": "\u00e6\u0301gan",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "to own,",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "to own",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;gan</B> <I>to own,</I> Ps. Spl. T. 78, 12: 138, 12. v. &aacute;gan."
         },
         {
             "heading": "\u00e6ge",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "fear",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "fear",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;ge</B> <I>fear;</I> timor, terror, Chr. 1006, Th. 257, 41. v. ege."
         },
         {
             "heading": "\u00e6\u0301ge",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "the island",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                "insulam"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6t e\u00f0elinga \u00e6\u0301ge",
-                    "modernEnglish": "at the island of nobles",
-                    "latin": "",
-                    "text": "&AElig;t e&eth;elinga &aelig-acute;ge <I>at the island of nobles;</I>"
+                    "modernEnglish": "",
+                    "latin": "at the island of nobles",
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;ge</B> <I>the island;</I> insulam :-- &AElig;t e&eth;elinga &aelig-acute;ge <I>at the island of nobles;</I> apud nobilium insulam, Sim. Dunelm. an. 888. v. &AElig;&eth;elinga &iacute;gg."
@@ -71,9 +126,33 @@
             "heading": "\u00c6gelesbirg",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "Aylesbury,",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "Aylesbury",
+                    "references": [
+                        [
+                            "Chr.",
+                            [
+                                "571"
+                            ]
+                        ],
+                        [
+                            "Th.",
+                            [
+                                "32",
+                                "29"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                }
+            ],
             "text": "<B>&AElig;gelesbirg</B> <I>Aylesbury,</I> Chr. 571; Th. 32, 29. v. &AElig;gles burg."
         },
         {
@@ -84,27 +163,85 @@
             "pluralForms": [
                 "es"
             ],
-            "partOfSpeech": "noun/masculine",
-            "meaning": "ailsford,",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "m. Ailsford",
+                    "references": [
+                        [
+                            "Chr.",
+                            [
+                                "1016"
+                            ]
+                        ],
+                        [
+                            "Th.",
+                            [
+                                "279",
+                                "16"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                }
+            ],
             "text": "<B>&AElig;gelesford,</B> Egeles ford, es; <I>m. Ailsford,</I> Chr. 1016; Th. 279, 16, col. 2: 1016; Th. 282, 10, col. 2."
         },
         {
             "heading": "\u00c6geles \u00ferep",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "Aylesthorpe,",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "Aylesthorpe",
+                    "references": [
+                        [
+                            "Chr.",
+                            [
+                                "455"
+                            ]
+                        ],
+                        [
+                            "Th.",
+                            [
+                                "21",
+                                "32"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                }
+            ],
             "text": "<B>&AElig;geles &thorn;rep,</B> <I>Aylesthorpe,</I> Chr. 455 ; Th. 21, 32. v. &AElig;gles &thorn;rep."
         },
         {
             "heading": "\u00e6\u0301gen",
             "alternativeSpellings": [],
             "pluralForms": [],
-            "partOfSpeech": "adjective",
-            "meaning": "own",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "adj. Own",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;gen;</B> <I>adj. Own;</I> proprius, Bt. 14, 2; Fox 44, 23. v. &aacute;gen."
         },
         {
@@ -113,18 +250,45 @@
             "pluralForms": [
                 "an"
             ],
-            "partOfSpeech": "noun/feminine",
-            "meaning": "film of an egg",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "f. Film of an egg",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;ger-felma,</B> an; <I>f. Film of an egg;</I> membrana vitellum complectens: -- Gen&iacute;m &eth;onne &aelig;gerfelman <I>then take film of egg,</I> L. M. l, 11; Lchdm, ii. 54, 21."
         },
         {
             "heading": "\u00e6gerum",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "from eggs.",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "from eggs.",
+                    "references": [
+                        [
+                            "Exon.",
+                            [
+                                "59"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;gerum</B> <I>from eggs.</I> Exon. 59 a; Th. 214, 2; Ph. 233. v. &aelig;g."
         },
         {
@@ -133,9 +297,19 @@
             "pluralForms": [
                 "es"
             ],
-            "partOfSpeech": "noun/masculine",
-            "meaning": "",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "m.",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;-gewr&iacute;tere,</B> es; <I>m.</I> [&aelig-acute; <I>law,</I> gewritere <I>a writer</I>] <I>A writer</I> or <I>composer of laws;</I> legum conditor, Prov. 8."
         },
         {
@@ -144,18 +318,38 @@
             "pluralForms": [
                 "an"
             ],
-            "partOfSpeech": "noun/masculine",
-            "meaning": "a floater on the sea, sailor, ship",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "m. A floater on the sea, sailor, ship",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;g-flota,</B> an; <I>m. A floater on the sea, sailor, ship;</I> nauta, navis, Andr. Kmbl. 515 ; An. 258. v. flota."
         },
         {
             "heading": "\u00e6\u0301g-hwa\u0301",
             "alternativeSpellings": [],
             "pluralForms": [],
-            "partOfSpeech": "noun/masculine",
-            "meaning": "f: neut. &aelig-acute;g-hw&aelig;t; gen.",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "m. f: neut. &aelig-acute;g-hw&aelig;t; gen.",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;g-hw&aacute;;</B> <I>m. f: neut. &aelig-acute;g-hw&aelig;t; gen.</I> &aelig-acute;g-hw&aelig;s [&aacute; + ge + hw&aacute;] <I>Every one, everything;</I> quisque, quicunque: -- &AElig-acute;ghw&aacute; secge <I>let every one say,</I> Exon. 88 b; Th. 333, 5; Vy. 97: 125a; Th. 482, 4; R&auml;. 66, 2. &AElig-acute;ghw&aelig;t he&oacute; gef&oacute;n m&aelig;g <I>whatever she may seize,</I> Bt. 25; Fox 88, 14. God &aelig-acute;ghw&aelig;s wealt <I>God governs everything,</I> Bt. 35, 4; Fox 160, 14. &thorn;earfum &aelig-acute;ghw&aelig;s oftugon <I>ye denied the poor everything,</I> Exon. 30 a; Th. 92, 8; Cri. 1505. Se fugol is on hiwe &aelig-acute;ghw&aelig;s &aelig-acute;nl&iacute;c <I>the bird is in aspect every way unique,</I> 60a; Th. 219, 24; Ph. 312. &AElig-acute;ghw&aelig;s orw&iacute;gne <I>wholly defenceless,</I> 72 a; Th. 268, 18; Jul. 434."
         },
         {
@@ -164,32 +358,70 @@
                 "a\u0301-hwie\u0301r"
             ],
             "pluralForms": [],
-            "partOfSpeech": "adverb",
-            "meaning": "",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "adv.",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;g-hw&aelig-acute;r,</B> &aacute;-hwi&eacute;r; <I>adv.</I> [&aacute; + ge + hw&aelig;"
         },
         {
             "heading": "\u00e6\u0301g-hw\u00e6t",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "whatever",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "whatever",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;g-hw&aelig;t</B> <I>whatever;</I> quodcunque. v. &aelig-acute;g-hw."
         },
         {
             "heading": "\u00e6\u0301g-hw\u00e6\u00f0er",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "pron.",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                "uterque"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6\u0301ghw\u00e6\u00f0er o\u0301\u00f0erne earme be\u00feehte",
-                    "modernEnglish": "they embraced each other",
-                    "latin": "",
-                    "text": "&AElig-acute;ghw&aelig;&eth;er &oacute;&eth;erne earme be&thorn;ehte <I>they embraced each other,</I>"
+                    "modernEnglish": "",
+                    "latin": "they embraced each other",
+                    "references": [
+                        [
+                            "Andr. Kmbl.",
+                            [
+                                "2029"
+                            ]
+                        ],
+                        [
+                            "An.",
+                            [
+                                "1017"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;g-hw&aelig;&eth;er;</B> <I>pron.</I> [&aacute; + ge + hw&aelig;&eth;er]. I. of two, <I>either, each, both;</I> uterque :-- &AElig-acute;ghw&aelig;&eth;er &oacute;&eth;erne earme be&thorn;ehte <I>they embraced each other,</I> Andr. Kmbl. 2029; An. 1017<I>.</I> Be&aacute;mas twegen &eth;ara &aelig-acute;ghw&aelig;&eth;er efnged&aelig-acute;lde heah&thorn;egnunga h&aacute;liges g&aacute;stes <I>two pillars, each of which shared alike the high services of the holy spirit,</I> Cd. 146; Th. 183, 21; Exod. 94. II. of many, <I>every one, each;</I> unusquisque :-- Heora &aelig-acute;ghw&aelig;&eth;rum <I>to each, to every one of them,</I> Beo. Th. 3277; B. 1636. &AElig-acute;ghw&aelig;&eth;er ge lengre f&aelig;c &eth;ysses l&iacute;fes &eth;&eacute; forgifan ge &eth;&eacute; e&aacute;c &eth;&aelig;s &eacute;can l&iacute;fes inganges wyr&thorn;ne ged&oacute;n <I>et hujus vit&aelig; longiora spatia concedere et ingressu te vit&aelig; perennis dignum reddere,</I> Bd. 3,13; S. 539, 2. &AElig-acute;ghw&aelig;&eth;er ge -- ge <I>et -- et,</I> 2, 16; S. 519, 34."
@@ -203,14 +435,29 @@
                 "-hwonene"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adverb",
-            "meaning": "everywhere, every way, on all sides",
+            "modernEnglishMeanings": [
+                "everywhere, every way, on all sides"
+            ],
+            "latinMeanings": [
+                "undique"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6\u0301ghwanan mid w\u00e6terum ymbseald",
                     "modernEnglish": "",
                     "latin": "undique aquis circumdata.",
-                    "text": "&AElig-acute;ghwanan mid w&aelig;terum ymbseald <I>undique aquis circumdata.</I>"
+                    "references": [
+                        [
+                            "Bd.",
+                            [
+                                "4",
+                                "19"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;g-hwanan,</B> -hwanoii, -hwonon, -hwanone, -hwonene; <I>adv. Everywhere, every way, on all sides;</I> undique :-- &AElig-acute;ghwanan mid w&aelig;terum ymbseald <I>undique aquis circumdata.</I> Bd. 4,19; S. 588, 28. H&iacute; &aelig-acute;ghwanon to him c&oacute;mon <I>conveniebant ad eum undique,</I> Mk. Bos. 1, 45. &AElig-acute;ghwo-nan ymb-boren mid brondum on <I>every side surrounded with brands,</I> Exon. 74a; Th. 277, 14; Jul. 580. &AElig-acute;ghwanon, &AElig;lfc. Gr.45; Som. 46, 57. Hine &aelig-acute;ghwonan &aelig;lmihtig God [MS. Good] gehealde&thorn; <I>Almighty God keeps him everywhere,</I> Bt. Met. Fox 7, 89; Met. 7,45. &AElig-acute;ghwonon <I>everywhere,</I> Bd. 4, 13; S. 582, 44. &AElig-acute;ghwanone, 3, 6; S. 528, 18. &AElig-acute;ghwonene, 3,15; S. 541, 42."
@@ -221,9 +468,34 @@
                 "\u00e6\u0301g-hwe\u0301r"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "everywhere,",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "everywhere",
+                    "references": [
+                        [
+                            "Ors.",
+                            [
+                                "4",
+                                "1"
+                            ]
+                        ],
+                        [
+                            "Bos.",
+                            [
+                                "76",
+                                "38"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;g-hw&aacute;r,</B> &aelig-acute;g-hw&eacute;r <I>everywhere,</I> Ors. 4,1; Bos. 76, 38. v. &aelig-acute;g-hw&aelig-acute;r."
         },
         {
@@ -232,14 +504,29 @@
                 "-hwyder"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adverb",
-            "meaning": "on every side, every way",
+            "modernEnglishMeanings": [
+                "on every side, every way"
+            ],
+            "latinMeanings": [
+                "quaquaver-f um"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6\u0301ghwider ymb swa\u0301 swa\u0301 Edwines ri\u0301ce w\u00e6\u0301re",
                     "modernEnglish": "",
                     "latin": "quaquaversum imperium regis &AElig;duini pervenerat",
-                    "text": "&AElig-acute;ghwider ymb sw&aacute; sw&aacute; Edwines r&iacute;ce w&aelig-acute;re <I>quaquaversum imperium regis &AElig;duini pervenerat,</I>"
+                    "references": [
+                        [
+                            "Bd.",
+                            [
+                                "2",
+                                "16"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;g-hwider,</B> -hwyder; <I>adv. On every side, every way;</I> quaquaver-f um :-- &AElig-acute;ghwider ymb sw&aacute; sw&aacute; Edwines r&iacute;ce w&aelig-acute;re <I>quaquaversum imperium regis &AElig;duini pervenerat,</I> Bd. 2,16; S. 519,38. &AElig-acute;ghwider wolde wide toscr&iacute;&eth;an <I>it would everywhere widely wander.</I> Bt. Met. Fox 20, 184; Met. 20, 92."
@@ -251,14 +538,21 @@
                 "-hwylc"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adjective",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "quicunque, unusquisque, omnis"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6\u0301ghwylc d\u00e6g",
-                    "modernEnglish": "every day",
-                    "latin": "",
-                    "text": "&AElig-acute;ghwylc d&aelig;g <I>every day,</I>"
+                    "modernEnglish": "",
+                    "latin": "every day",
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;g-hwilc,</B> -hwelc, -hwylc; <I>adj.</I> [&aacute; + ge + hw&yacute; + l&iacute;c] <I>Every, all, whosoever, whatsoever, every one;</I> quicunque, unusquisque, omnis :-- &AElig-acute;ghwylc d&aelig;g <I>every day,</I> Mt. Bos. 6, 34. &AElig-acute;ghwylce ge&aacute;re <I>every year,</I> Bd. 2, 16; S. 519, 23. H&eacute;r is &aelig-acute;ghwylc eorl &oacute;&eth;rum getr&yacute;we <I>here is every man true to the other,</I> Beo. Th. 2460; B. 1228. &AElig-acute;ghwylcum m&aacute;&eth;&eth;um gesealde <I>he gave a present to every one.</I> Beo. Th. 2104; B. 1050. &AElig-acute;ghwylcne ell&thorn;e&oacute;digra <I>unumquemque alienorum,</I> Andr. Kmbl. 51; An. 26. Wre&eth;ia&thorn; f&aelig;ste &aelig-acute;ghwilc &oacute;&eth;er <I>each supports the other firmly,</I> Bt. Met. Fox 11, 69; Met. 11, 35. &AElig-acute;ghwelce d&aelig;g <I>on every day,</I> Bt. Met. Fox 14, 9; Met. 14,5. &AElig-acute;ghwylc wille l&iacute;fes tiligan <I>every one wishes to cultivate life,</I> Exon. 27a; Th. 81, 4; Cri. 1318. &ETH;&uacute; &aelig-acute;ghwylces canst <I>thou art knowing in every matter,</I> Andr. Kmbl. 1016; An. 508."
@@ -267,14 +561,29 @@
             "heading": "\u00e6\u0301g-hwonene",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adverb",
-            "meaning": "on every side",
+            "modernEnglishMeanings": [
+                "on every side"
+            ],
+            "latinMeanings": [
+                "ubique"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00d0a y\u0301\u00f0a \u00e6\u0301ghwonene \u00f0\u00e6t scyp fyldon",
-                    "modernEnglish": "the waves filled the ship on every side",
-                    "latin": "",
-                    "text": "&ETH;a &yacute;&eth;a &aelig-acute;ghwonene &eth;&aelig;t scyp fyldon <I>the waves filled the ship on every side,</I>"
+                    "modernEnglish": "",
+                    "latin": "the waves filled the ship on every side",
+                    "references": [
+                        [
+                            "Bd.",
+                            [
+                                "3",
+                                "15"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;g-hwonene;</B> <I>adv. On every side;</I> ubique :-- &ETH;a &yacute;&eth;a &aelig-acute;ghwonene &eth;&aelig;t scyp fyldon <I>the waves filled the ship on every side,</I> Bd. 3, 15; S. 541, 42. v. &aelig-acute;g-hwanan."
@@ -283,9 +592,19 @@
             "heading": "\u00e6\u0301g-hwyder",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "every way.",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "every way.",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;g-hwyder</B> <I>every way.</I> v. &aelig-acute;ghwider."
         },
         {
@@ -294,9 +613,19 @@
             "pluralForms": [
                 "e"
             ],
-            "partOfSpeech": "noun/feminine",
-            "meaning": "a legal gift, restitution",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "f. A legal gift, restitution",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;-gift,</B> e; <I>f. A legal gift, restitution;</I> legalis dos, restitutio, Cart. Eadgif R."
         },
         {
@@ -307,14 +636,28 @@
                 "a-gylde"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adverb",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "sine compensatione"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Gif he gewyrce \u00f0\u00e6t hine man afylle, li\u0301cge \u00e6gilde",
-                    "modernEnglish": "if he so do that any man fell him down, let him be without compensation",
-                    "latin": "",
-                    "text": "Gif he gewyrce &eth;&aelig;t hine man afylle, l&iacute;cge &aelig;gilde <I>if he so do that any man fell him down, let him be without compensation,</I>"
+                    "modernEnglish": "",
+                    "latin": "if he so do that any man fell him down, let him be without compensation",
+                    "references": [
+                        [
+                            "L. Eth. vi.",
+                            [
+                                "38"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;-gilde,</B> &aelig;-gylde, a-gilde, a-gylde; <I>adv.</I> [&aelig; <I>without,</I> gild <I>payment</I>] <I>Without compensation;</I> sine compensatione :-- Gif he gewyrce &eth;&aelig;t hine man afylle, l&iacute;cge &aelig;gilde <I>if he so do that any man fell him down, let him be without compensation,</I> L. Eth. vi. 38; Th. i. 324, 24: L. E. G. 6; Th. i. 170,13: L. C. S. 49; Th. i. 404, 14: L. Eth. v. 31; Th. 1. 312, 12."
@@ -323,18 +666,38 @@
             "heading": "\u00c6giptisc",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "Egyptian,",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "Egyptian",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&AElig;giptisc</B> <I>Egyptian,</I> r. &AElig;gypte, Egiptisc."
         },
         {
             "heading": "\u00e6g-l\u00e6\u0301c",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "es; n. Misery, trouble, torment",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "es; n. Misery, trouble, torment",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;g-l&aelig-acute;c,</B> <I>es; n. Misery, trouble, torment;</I> miseria, tribulatio, cruciatus, Elen. Grm. 1188. v. ag-l&aacute;c."
         },
         {
@@ -343,14 +706,34 @@
             "pluralForms": [
                 "an"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/masculine",
-            "meaning": "a miserable being, wretch, monster",
+            "modernEnglishMeanings": [
+                "a miserable being, wretch, monster"
+            ],
+            "latinMeanings": [
+                "miser, perditus, monstrum"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Atol \u00e6gl\u00e6\u0301ca",
-                    "modernEnglish": "the fell wretch",
-                    "latin": "",
-                    "text": "Atol &aelig;gl&aelig-acute;ca <I>the fell wretch,</I>"
+                    "modernEnglish": "",
+                    "latin": "the fell wretch",
+                    "references": [
+                        [
+                            "Beo. Th.",
+                            [
+                                "1188"
+                            ]
+                        ],
+                        [
+                            "B.",
+                            [
+                                "592"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;g-l&aelig-acute;ca,</B> an; <I>m. A miserable being, wretch, monster;</I> miser, perditus, monstrum :-- Atol &aelig;gl&aelig-acute;ca <I>the fell wretch,</I> Beo. Th. 1188; B. 592 : Cd. 216; Th. 274, 28; Sat. 161: Andr. Kmbl. 2717; An. 1361. v. ag-l&aelig-acute;ca."
@@ -359,9 +742,19 @@
             "heading": "\u00e6\u0301-glea\u0301w",
             "alternativeSpellings": [],
             "pluralForms": [],
-            "partOfSpeech": "adjective",
-            "meaning": "skilled in the law, learned, wise",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "adj. Skilled in the law, learned, wise",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;-gle&aacute;w;</B> <I>adj. Skilled in the law, learned, wise;</I> legis peritus, saga-cissimus, sapientissimus: -- &ETH;&aacute; andswarode him sum &aelig-acute;gle&aacute;w <I>respondit quidam ex legis peritis,</I> Lk. Bos. 11, 45. Ealde &aelig-acute;gle&aacute;we <I>elders skilled in laws,</I> Menol. Fox 37; Men, 19. &ETH;&aelig;t scell &aelig-acute;gle&aacute;wra f&iacute;ndan <I>that a more learned man must find out.</I> Andr. Kmbl. 2965; An. 1485."
         },
         {
@@ -370,9 +763,39 @@
             "pluralForms": [
                 "an"
             ],
-            "partOfSpeech": "noun/masculine",
-            "meaning": "a wretch, miscreant,",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "m. A wretch, miscreant",
+                    "references": [
+                        [
+                            "Cd.",
+                            [
+                                "214"
+                            ]
+                        ],
+                        [
+                            "Th.",
+                            [
+                                "269",
+                                "14"
+                            ]
+                        ],
+                        [
+                            "Sat.",
+                            [
+                                "73"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;g-l&eacute;ca,</B> an; <I>m. A wretch, miscreant,</I> Cd. 214; Th. 269,14; Sat. 73. v. ag-l&aelig-acute;ca."
         },
         {
@@ -382,14 +805,48 @@
                 "[burh]"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "g.",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                ""
+            ],
             "examples": [
                 {
                     "oldEnglish": "C&uacute;\u00fewulf genom \u00c6geles burg",
-                    "modernEnglish": "Cuth-wulf took Aylesbury",
-                    "latin": "",
-                    "text": "C&uacute;&thorn;wulf genom &AElig;geles burg <I>Cuth-wulf took Aylesbury,</I>"
+                    "modernEnglish": "",
+                    "latin": "Cuth-wulf took Aylesbury",
+                    "references": [
+                        [
+                            "Chr.",
+                            [
+                                "571"
+                            ]
+                        ],
+                        [
+                            "Erl.",
+                            [
+                                "18",
+                                "13"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                },
+                {
+                    "oldEnglish": "Genam \u00c6gles burh",
+                    "modernEnglish": "",
+                    "latin": "id.",
+                    "references": [
+                        [
+                            "Th.",
+                            [
+                                "32",
+                                "29"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&AElig;gles burg,</B> &AElig;geles burg, [burh]; <I>g.</I> burge; <I>f;</I> &AElig;gles byrig, e ; <I>f.</I> AYLESBURY<I>, in Buckinghamshire</I> :-- C&uacute;&thorn;wulf genom &AElig;geles burg <I>Cuth-wulf took Aylesbury,</I> Chr. 571; Erl. 18, 13. Genam &AElig;gles burh <I>id.</I> Th. 32, 29, col. 2. Genam &AElig;gles byrig <I>id.</I> Th. 33, 27, col. l. Betwe&oacute;x Byrnewuda and &AElig;gles byrig <I>betwixt Bernwood and Aylesbury,</I> 921; Th. 194,19."
@@ -400,9 +857,19 @@
             "pluralForms": [
                 "es"
             ],
-            "partOfSpeech": "noun/masculine",
-            "meaning": "",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "m.",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&AElig;gles ford,</B> es; <I>m.</I> AYLESFORD <I>on the Medway near Maidstone, Kent,</I> Chr. 455; Ing. 15,15. v. &AElig;geles ford."
         },
         {
@@ -411,9 +878,19 @@
             "pluralForms": [
                 "es"
             ],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "n.",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "n.",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&AElig;gles &thorn;rep,</B> es; <I>n.</I> [&thorn;orp <I>a village</I>] AYLESTHORPE, <I>a village near Aylesford, Kent,</I> Chr. 455 ; Ing. p. 15, note <I>h;</I> Th. 20, 39."
         },
         {
@@ -422,9 +899,19 @@
             "pluralForms": [
                 "es"
             ],
-            "partOfSpeech": "noun/masculine",
-            "meaning": "the village of",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "m. The village of",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&AElig;gles wur&thorn;,</B> es; <I>m. The village of</I> EYLESWORTH, <I>Northamptonshire,</I> Chr. 963; Ing. 155, 9."
         },
         {
@@ -433,14 +920,35 @@
             "pluralForms": [
                 "es"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/masculine",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "ovi viscum"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6gli\u0301ra",
-                    "modernEnglish": "glara",
-                    "latin": "",
-                    "text": "&AElig;gl&iacute;ra <I>glara,</I>"
+                    "modernEnglish": "",
+                    "latin": "glara",
+                    "references": [
+                        [
+                            "&AElig;lfc. Gl.",
+                            [
+                                "81"
+                            ]
+                        ],
+                        [
+                            "Som.",
+                            [
+                                "72",
+                                "119"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;g-l&iacute;m,</B> es; <I>m.</I> [&aelig;g <I>an egg,</I> l&iacute;m <I>lime, glue</I>] EGG-LIME, <I>the sticky part</I> or <I>white of an egg;</I> ovi viscum :-- &AElig;gl&iacute;ra <I>glara,</I> &AElig;lfc. Gl. 81; Som. 72,119."
@@ -449,14 +957,19 @@
             "heading": "\u00e6\u0301g-moran",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "pl. f. Eye-roots",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                "nervi quibus oculus cum cerebro connectitur"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00d0e beo\u0301\u00fe on \u00f0an \u00e6\u0301gmoran sa\u0301ra",
-                    "modernEnglish": "which are sores in the eye-roots",
-                    "latin": "",
-                    "text": "&ETH;e be&oacute;&thorn; on &eth;an &aelig-acute;gmoran s&aacute;ra <I>which are sores in the eye-roots,</I>"
+                    "modernEnglish": "",
+                    "latin": "which are sores in the eye-roots",
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;g-moran;</B> <I>pl. f. Eye-roots;</I> nervi quibus oculus cum cerebro connectitur :-- &ETH;e be&oacute;&thorn; on &eth;an &aelig-acute;gmoran s&aacute;ra <I>which are sores in the eye-roots,</I> Lchdm, iii. 98, 5. v. more."
@@ -465,27 +978,57 @@
             "heading": "\u00e6\u0301gnes ponces",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "of his own accord",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "of his own accord",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;gnes ponces</B> <I>of his own accord;</I> sponte, ultro. v. &aacute;gen."
         },
         {
             "heading": "\u00e6gnian",
             "alternativeSpellings": [],
             "pluralForms": [],
-            "partOfSpeech": "verb",
-            "meaning": "to frighten, vex",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "p.",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;gnian;</B> <I>p.</I> ede; <I>pp.</I> ed? <I>To frighten, vex;</I> terrere, tribulare: -- &AElig;gnian mid yrm&thorn;um <I>to frighten with misery,</I> Cd. 156; Th. 194, 23; Exod. 265."
         },
         {
             "heading": "\u00e6gru",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "eggs,",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "eggs",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;gru</B> <I>eggs,</I> L. M. 1, 87; Lchdm, ii. 156, 6. v. &aelig;g."
         },
         {
@@ -494,9 +1037,19 @@
             "pluralForms": [
                 "an"
             ],
-            "partOfSpeech": "noun/masculine",
-            "meaning": "fear",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "m. Fear",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;gsa,</B> an; <I>m. Fear;</I> timor, Mt. Rush. Stv. 14, 26. v. egsa."
         },
         {
@@ -505,14 +1058,19 @@
                 "[ = \u00e6\u0301g-hw\u00e6\u00f0er]"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "pron. Either, each, both",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                "uterque, ambo"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6\u0301g\u00f0er by\u00fe gehealden",
-                    "modernEnglish": "ambo conservantur",
-                    "latin": "",
-                    "text": "&AElig-acute;g&eth;er by&thorn; gehealden <I>ambo conservantur,</I>"
+                    "modernEnglish": "",
+                    "latin": "ambo conservantur",
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;g-&eth;er</B> [ = &aelig-acute;g-hw&aelig;&eth;er] ; <I>pron. Either, each, both;</I> uterque, ambo :-- &AElig-acute;g&eth;er by&thorn; gehealden <I>ambo conservantur,</I> Mt. Bos. 9, 17. &AElig-acute;gder &eth;ara eorla <I>each of the men.</I> Andr. Kmbl. 2103; An. 1053. Heora &aelig-acute;g&eth;er <I>either</I> or <I>both of them, each.</I> Gen. 21, 31. On &aelig-acute;g&eth;re hand, on &aelig-acute;g&eth;ere healic <I>on either hand</I> or <I>half, on both sides,</I> Ors. 1, 11; Bos. 34, 40: l, 14; Bos. 37,33. On &aelig-acute;g&eth;re healfe weard <I>towards both sides,</I> &AElig;lfc. Gr. &AElig-acute;g&eth;er ge -- ge, <I>both</I> -- <I>and, as well -- as:</I> -- &AElig-acute;g&eth;er ge h&aacute;des, ge &eacute;&eth;eles &thorn;olige <I>let him forfeit both degree and country,</I> L. C.S. 41; Th. i. 400, 14. &AElig-acute;g&eth;er ge heonan ge &eth;anan <I>both here and there.</I> H&iacute; hatedon &aelig-acute;g&eth;er ge me ge m&iacute;nne f&aelig;der <I>they hated both me and my father,</I> Jn. Bos. 15, 24."
@@ -523,9 +1081,19 @@
             "pluralForms": [
                 "e"
             ],
-            "partOfSpeech": "noun/feminine",
-            "meaning": "sea-ward, sea-guard",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "f. Sea-ward, sea-guard",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;g-weard,</B> e; <I>f. Sea-ward, sea-guard</I> or <I>guardianship;</I> maris [litoris] custodia. -- Ic &aelig-acute;gwearde he&oacute;ld <I>I hold guard,</I> Beo. Th. 488, note; B. 241. v. weard."
         },
         {
@@ -534,18 +1102,38 @@
             "pluralForms": [
                 "e"
             ],
-            "partOfSpeech": "noun/feminine",
-            "meaning": "egg-wort, dandelion",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "f. Egg-wort, dandelion",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;g-wyrt,</B> e; <I>f. Egg-wort, dandelion;</I> leontodon taraxacum, Lacn. 40; Lchdm, iii. 28, 26."
         },
         {
             "heading": "\u00e6-gylde",
             "alternativeSpellings": [],
             "pluralForms": [],
-            "partOfSpeech": "adverb",
-            "meaning": "without compensation,",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "adv. Without compensation",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;-gylde;</B> <I>adv. Without compensation,</I> L.E.G. 6; Th. i. 170, 13. v. &aelig;-gilde."
         },
         {
@@ -556,14 +1144,21 @@
             "pluralForms": [
                 "es"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/masculine",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "delictum"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6\u0301giltas i&uacute;gu\u00fe-ha\u0301des mi\u0301nes ne gemun \u00f0&uacute;",
-                    "modernEnglish": "delicta juventutis me&aelig; ne memineris.",
-                    "latin": "",
-                    "text": "&AElig-acute;giltas i&uacute;gu&thorn;-h&aacute;des m&iacute;nes ne gemun &eth;&uacute; <I>delicta juventutis me&aelig; ne memineris.</I>"
+                    "modernEnglish": "",
+                    "latin": "delicta juventutis me&aelig; ne memineris.",
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;-gylt,</B> -gilt, es; <I>m.</I> [&aelig-acute;, gylt <I>guilt, fault</I>] <I>A breach</I> or <I>violation of the law, a trespass, fault;</I> delictum :-- &AElig-acute;giltas i&uacute;gu&thorn;-h&aacute;des m&iacute;nes ne gemun &eth;&uacute; <I>delicta juventutis me&aelig; ne memineris.</I> Ps. Spl. T. 24, 7."
@@ -574,14 +1169,29 @@
                 "-gipe"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adjective",
-            "meaning": "trifling, worthless",
+            "modernEnglishMeanings": [
+                "trifling, worthless"
+            ],
+            "latinMeanings": [
+                "nugalis"
+            ],
             "examples": [
                 {
                     "oldEnglish": "For\u00f0on hi\u0301 dydan Drihtnes spr\u00e6\u0301ce \u00e6\u0301ghw\u00e6s \u00e6gype",
-                    "modernEnglish": "quia exacerbaverunt eloquium Domini",
-                    "latin": "",
-                    "text": "For&eth;on h&iacute; dydan Drihtnes spr&aelig-acute;ce &aelig-acute;ghw&aelig;s &aelig;gype <I>quia exacerbaverunt eloquium Domini,</I>"
+                    "modernEnglish": "",
+                    "latin": "quia exacerbaverunt eloquium Domini",
+                    "references": [
+                        [
+                            "Ps. Th.",
+                            [
+                                "106",
+                                "10"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;-gype,</B> -gipe; <I>adj. Trifling, worthless;</I> nugalis :-- For&eth;on h&iacute; dydan Drihtnes spr&aelig-acute;ce &aelig-acute;ghw&aelig;s &aelig;gype <I>quia exacerbaverunt eloquium Domini,</I> Ps. Th. 106, 10."
@@ -590,9 +1200,27 @@
             "heading": "\u00c6gypte",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "Egypt,",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "Egypt",
+                    "references": [
+                        [
+                            "Bd.",
+                            [
+                                "4",
+                                "24"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                }
+            ],
             "text": "<B>&AElig;gypte</B> <I>Egypt,</I> Bd. 4, 24; S. 598, ii. v. Egypte."
         },
         {
@@ -603,14 +1231,28 @@
             "pluralForms": [
                 "e"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/feminine",
-            "meaning": "paleness, gloom",
+            "modernEnglishMeanings": [
+                "paleness, gloom"
+            ],
+            "latinMeanings": [
+                "pallor, deficientia coloris"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Wi\u00f0 \u00e6bl\u00e6\u0301cnysse and \u00e6hiwnesse \u00f0\u00e6s li\u0301choman",
-                    "modernEnglish": "for paleness and discoloration of the body",
-                    "latin": "",
-                    "text": "Wi&eth; &aelig;bl&aelig-acute;cnysse and &aelig;hiwnesse &eth;&aelig;s l&iacute;choman <I>for paleness and discoloration of the body,</I>"
+                    "modernEnglish": "",
+                    "latin": "for paleness and discoloration of the body",
+                    "references": [
+                        [
+                            "Herb.",
+                            [
+                                "164"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;-hiwnes,</B> -ness, e; <I>f. Paleness, gloom;</I> pallor, deficientia coloris :-- Wi&eth; &aelig;bl&aelig-acute;cnysse and &aelig;hiwnesse &eth;&aelig;s l&iacute;choman <I>for paleness and discoloration of the body,</I> Herb. 164; Lchdm, i. 294, 3."
@@ -623,8 +1265,14 @@
             "pluralForms": [
                 "es"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/masculine",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "legis transgressio, aggressus"
+            ],
             "examples": [],
             "text": "<B>&aelig-acute;-hl&yacute;p,</B> -hl&iacute;p, es; <I>m.</I> [&aelig-acute; <I>law,</I> hlyp <I>a leap</I>] <I>A transgression, breach of the law, an assault;</I> legis transgressio, aggressus :-- Se &eth;e &aelig-acute;-hl&iacute;p gewyrce"
         }

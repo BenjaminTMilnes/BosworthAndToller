@@ -7,9 +7,19 @@
             "pluralForms": [
                 "e"
             ],
-            "partOfSpeech": "noun/feminine",
-            "meaning": "an evening service",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "f. An evening service",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;fen-&thorn;&eacute;nung,</B> e; <I>f. An evening service</I> or <I>duty, evening repast, supper;</I> c&oelig-acute;na, R. Concord 8. v. &thorn;egnung."
         },
         {
@@ -18,9 +28,19 @@
             "pluralForms": [
                 "es"
             ],
-            "partOfSpeech": "noun/masculine",
-            "meaning": "an evening service",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "m. An evening service",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;fen-&thorn;e&oacute;wd&oacute;m,</B> es; <I>m. An evening service</I> or <I>office;</I> vespertinum officium, &AElig;lfc. Gl. 34; Som. 62, 50."
         },
         {
@@ -29,14 +49,56 @@
             "pluralForms": [
                 "e"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/feminine",
-            "meaning": "the eventide, evening",
+            "modernEnglishMeanings": [
+                "the eventide, evening"
+            ],
+            "latinMeanings": [
+                "vespertina hora"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Seo\u0301 \u00e6\u0301fen-ti\u0301d \u00f0\u00e6s d\u00e6ges",
-                    "modernEnglish": "the eventide of the day",
-                    "latin": "",
-                    "text": "Se&oacute; &aelig-acute;fen-t&iacute;d &eth;&aelig;s d&aelig;ges <I>the eventide of the day,</I>"
+                    "modernEnglish": "",
+                    "latin": "the eventide of the day",
+                    "references": [
+                        [
+                            "Dial.",
+                            [
+                                "1",
+                                "10"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                },
+                {
+                    "oldEnglish": "On \u00e6\u0301fen-ti\u0301d",
+                    "modernEnglish": "",
+                    "latin": "at eventide",
+                    "references": [
+                        [
+                            "Cd.",
+                            [
+                                "111"
+                            ]
+                        ],
+                        [
+                            "Th.",
+                            [
+                                "146",
+                                "19"
+                            ]
+                        ],
+                        [
+                            "Gen.",
+                            [
+                                "2424"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;fen-t&iacute;d,</B> e; <I>f. The eventide, evening;</I> vespertina hora :-- Se&oacute; &aelig-acute;fen-t&iacute;d &eth;&aelig;s d&aelig;ges <I>the eventide of the day,</I> Dial. 1, 10. On &aelig-acute;fen-t&iacute;d <I>at eventide,</I> Cd. 111; Th. 146, 19; Gen. 2424."
@@ -47,14 +109,21 @@
             "pluralForms": [
                 "an"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/masculine",
-            "meaning": "evening time, eventide",
+            "modernEnglishMeanings": [
+                "evening time, eventide"
+            ],
+            "latinMeanings": [
+                "vespertinum tempus"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00d0a\u0301 \u00e6\u0301fenti\u0301ma w\u00e6s, he fe\u0301rde to Bethani\u0301am",
                     "modernEnglish": "",
                     "latin": "cum jam vespera esset hora, exiit in Bethaniam",
-                    "text": "&ETH;&aacute; &aelig-acute;fent&iacute;ma w&aelig;s, he f&eacute;rde to Bethan&iacute;am <I>cum jam vespera esset hora, exiit in Bethaniam,</I>"
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;fen-t&iacute;ma,</B> an; <I>m. Evening time, eventide;</I> vespertinum tempus :-- &ETH;&aacute; &aelig-acute;fent&iacute;ma w&aelig;s, he f&eacute;rde to Bethan&iacute;am <I>cum jam vespera esset hora, exiit in Bethaniam,</I> Mk. Bos. 11, 11."
@@ -65,23 +134,48 @@
             "pluralForms": [
                 "es"
             ],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "The evening star",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "m. n. The evening star",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;fen-tungel,</B> es; <I>m. n. The evening star;</I> hesperus. v. tungel."
         },
         {
             "heading": "\u00c6\u0301FER",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adverb",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "unquam, semper"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6\u0301fer ge fliton onge\u0301n God",
                     "modernEnglish": "",
                     "latin": "semper contentiose egistis contra Deum",
-                    "text": "&AElig-acute;fer ge fliton ong&eacute;n God <I>semper contentiose egistis contra Deum,</I>"
+                    "references": [
+                        [
+                            "Deut.",
+                            [
+                                "31",
+                                "27"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&AElig-acute;FER;</B> <I>adv.</I> EVER, <I>always;</I> unquam, semper :-- &AElig-acute;fer ge fliton ong&eacute;n God <I>semper contentiose egistis contra Deum,</I> Deut. 31, 27. v. &aelig-acute;fre."
@@ -96,14 +190,28 @@
             "pluralForms": [
                 "e"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/feminine",
-            "meaning": "pasturage, the charge for pigs going into the wood to fatten on acorns",
+            "modernEnglishMeanings": [
+                "pasturage, the charge for pigs going into the wood to fatten on acorns"
+            ],
+            "latinMeanings": [
+                "pasnagium, pretium propter porcos in quercetum admissos"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Gif mon ni\u0301me \u00e6fesne on swi\u0301num",
-                    "modernEnglish": "if [a man] any one take pasturage on swine",
-                    "latin": "",
-                    "text": "Gif mon n&iacute;me &aelig;fesne on sw&iacute;num <I>if [a man] any one take pasturage on swine,</I>"
+                    "modernEnglish": "",
+                    "latin": "if [a man] any one take pasturage on swine",
+                    "references": [
+                        [
+                            "L. In.",
+                            [
+                                "49"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fesen,</B> &aelig;fesn, &aelig;besen, &aelig;besn, e; <I>f. Pasturage, the charge for pigs going into the wood to fatten on acorns;</I> pasnagium, pretium propter porcos in quercetum admissos :-- Gif mon n&iacute;me &aelig;fesne on sw&iacute;num <I>if [a man] any one take pasturage on swine,</I> L. In. 49; Th. i. 132, 18."
@@ -117,14 +225,53 @@
             "pluralForms": [
                 "es"
             ],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "n.",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                "livor, invidia, odium, zelus, &aelig;mulatio"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6fst and oferhygd",
-                    "modernEnglish": "envy and pride",
-                    "latin": "",
-                    "text": "&AElig;fst and oferhygd <I>envy and pride,</I>"
+                    "modernEnglish": "",
+                    "latin": "envy and pride",
+                    "references": [
+                        [
+                            "Cd.",
+                            [
+                                "1"
+                            ]
+                        ],
+                        [
+                            "Th.",
+                            [
+                                "3",
+                                "1"
+                            ]
+                        ],
+                        [
+                            "Gen.",
+                            [
+                                "29"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                },
+                {
+                    "oldEnglish": "Eald-feo\u0301ndes \u00e6fe\u0301st",
+                    "modernEnglish": "",
+                    "latin": "the old fiend's envy",
+                    "references": [
+                        [
+                            "Exon.",
+                            [
+                                "61"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&AElig;f-&eacute;st,</B> &aelig;f-&aelig-acute;st, &aelig;fst, es; <I>n.</I> [<I>&aelig;f,</I> of = <I>ab,</I> &eacute;st <I>gratia</I>] Without favour or good-will, hence, <I>Envy, spite, enmity, zeal, rivalry, emulation;</I> livor, invidia, odium, zelus, &aelig;mulatio :-- &AElig;fst and oferhygd <I>envy and pride,</I> Cd. 1; Th. 3, 1; Gen. 29. Eald-fe&oacute;ndes &aelig;f&eacute;st <I>the old fiend's envy,</I> Exon. 61 b; Th. 226, 5; Ph. 401. &AElig;f&eacute;stes <I>livoris,</I> Mone B. 2699, p. 386. Heora &aelig;fstu ealle sceamien <I>they all shall be ashamed of their enmities,</I> Ps. Th. 69, 4. Fore &aelig;fstum <I>from envy,</I> Exon. 43 a ; Th. 144, 27 ; G&uacute;. 684. &AElig;f&aelig-acute;stum on&aelig;led <I>inflamed with envy,</I> Exon. 84 a ; Th. 316, 3; M&oacute;d. 43. [<I>O. Sax.</I> ab-unst, <I>f. invidia :</I> <I>O. Frs.</I> ev-est <I>invidia : Ger.</I> ab-gunst, <I>f. invidia :</I> <I>O. H. Ger.</I> ap-anst, ap-unst, <I>m. invidia, livor, zelus, rancor.</I>]"
@@ -133,14 +280,29 @@
             "heading": "\u00e6\u0301-fest",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adjective",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "religiosus"
+            ],
             "examples": [
                 {
                     "oldEnglish": "W\u00e6s se mon swy\u0301\u00f0e \u00e6\u0301fest",
                     "modernEnglish": "",
                     "latin": "erat vir multum religiosus",
-                    "text": "W&aelig;s se mon sw&yacute;&eth;e &aelig-acute;fest <I>erat vir multum religiosus,</I>"
+                    "references": [
+                        [
+                            "Bd.",
+                            [
+                                "4",
+                                "24"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;-fest;</B> <I>adj.</I> [&aelig-acute; <I>law,</I> f&aelig;st <I>fast, fixed</I>] <I>Fast</I> or <I>firm in the law, religious, devout ;</I> religiosus :-- W&aelig;s se mon sw&yacute;&eth;e &aelig-acute;fest <I>erat vir multum religiosus,</I> Bd. 4, 24; S. 598, 20. Ongunnon &aelig-acute;feste le&oacute;&thorn; wyrcean <I>religiosa poemata facere tentabant,</I> id; S. 596, 38. v. &aelig-acute;-f&aelig;st, &aelig-acute;w-f&aelig;st."
@@ -149,14 +311,29 @@
             "heading": "\u00e6f-e\u0301st-ful",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adjective",
-            "meaning": "full of envy",
+            "modernEnglishMeanings": [
+                "full of envy"
+            ],
+            "latinMeanings": [
+                "invidia plenus, invidiosus"
+            ],
             "examples": [
                 {
                     "oldEnglish": "He is swi\u0301\u00f0e \u00e6fe\u0301stful for \u00f0i\u0301num go\u0301de",
-                    "modernEnglish": "he is very full of envy at thy prosperity",
-                    "latin": "",
-                    "text": "He is sw&iacute;&eth;e &aelig;f&eacute;stful for &eth;&iacute;num g&oacute;de <I>he is very full of envy at thy prosperity,</I>"
+                    "modernEnglish": "",
+                    "latin": "he is very full of envy at thy prosperity",
+                    "references": [
+                        [
+                            "Th. Apol.",
+                            [
+                                "14",
+                                "24"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;f-&eacute;st-ful;</B> <I>adj. Full of envy;</I> invidia plenus, invidiosus :-- He is sw&iacute;&eth;e &aelig;f&eacute;stful for &eth;&iacute;num g&oacute;de <I>he is very full of envy at thy prosperity,</I> Th. Apol. 14, 24, v. &aelig;f-&eacute;st."
@@ -167,14 +344,32 @@
                 "-e\u0301stigan"
             ],
             "pluralForms": [],
+            "conjugations": {
+                "p": "ode",
+                "pp": "od"
+            },
             "partOfSpeech": "verb",
-            "meaning": "to envy, be envious of",
+            "modernEnglishMeanings": [
+                "to envy, be envious of"
+            ],
+            "latinMeanings": [
+                "invidere"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00d0es iunga man ne \u00e6fe\u0301stiga\u00fe on na\u0301num \u00feingum, \u00f0e he he\u0301r gesih\u00fe",
-                    "modernEnglish": "this young man is envious at nothing, which he here seeth",
-                    "latin": "",
-                    "text": "&ETH;es iunga man ne &aelig;f&eacute;stiga&thorn; on n&aacute;num &thorn;ingum, &eth;e he h&eacute;r gesih&thorn; <I>this young man is envious at nothing, which he here seeth,</I>"
+                    "modernEnglish": "",
+                    "latin": "this young man is envious at nothing, which he here seeth",
+                    "references": [
+                        [
+                            "Th. Apol.",
+                            [
+                                "14",
+                                "25"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;f-&eacute;stian,</B> -&eacute;stigan ; <I>p.</I> ode ; <I>pp.</I> od <I>To envy, be envious of</I> or <I>at;</I> invidere :-- &ETH;es iunga man ne &aelig;f&eacute;stiga&thorn; on n&aacute;num &thorn;ingum, &eth;e he h&eacute;r gesih&thorn; <I>this young man is envious at nothing, which he here seeth,</I> Th. Apol. 14, 25: Cot. 119. v. &aelig;f-&eacute;st."
@@ -185,14 +380,29 @@
                 "\u00e6fstig"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adjective",
-            "meaning": "envious, emulous, jealous",
+            "modernEnglishMeanings": [
+                "envious, emulous, jealous"
+            ],
+            "latinMeanings": [
+                "invidus, &aelig;mulus"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Sum eald and sum \u00e6fe\u0301stig ealdorman",
-                    "modernEnglish": "an old and an envious nobleman",
-                    "latin": "",
-                    "text": "Sum eald and sum &aelig;f&eacute;stig ealdorman <I>an old and an envious nobleman,</I>"
+                    "modernEnglish": "",
+                    "latin": "an old and an envious nobleman",
+                    "references": [
+                        [
+                            "Th. Apol.",
+                            [
+                                "14",
+                                "19"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;f-&eacute;stig,</B> &aelig;fstig; <I>adj. Envious, emulous, jealous;</I> invidus, &aelig;mulus :-- Sum eald and sum &aelig;f&eacute;stig ealdorman <I>an old and an envious nobleman,</I> Th. Apol. 14, 19. v. &aelig;f-&eacute;st."
@@ -201,9 +411,19 @@
             "heading": "\u00e6\u0301-festli\u0301ce",
             "alternativeSpellings": [],
             "pluralForms": [],
-            "partOfSpeech": "adverb",
-            "meaning": "religiously",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "adv. Religiously",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;-festl&iacute;ce;</B> <I>adv. Religiously;</I> religiose. v. f&aelig;stl&iacute;ce."
         },
         {
@@ -216,9 +436,19 @@
             "pluralForms": [
                 "e"
             ],
-            "partOfSpeech": "noun/feminine",
-            "meaning": "envy, spite",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "f. Envy, spite",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;f-&eacute;stnes,</B> -ness ; -nys, -nyss, e ; <I>f. Envy, spite;</I> invidia, malignitas. DER. &aelig;f-&eacute;st."
         },
         {
@@ -229,14 +459,29 @@
             "pluralForms": [
                 "e"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/feminine",
-            "meaning": "religion, devotion",
+            "modernEnglishMeanings": [
+                "religion, devotion"
+            ],
+            "latinMeanings": [
+                "religio"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00d0a \u00f0e to \u00e6\u0301festnesse belumpon",
-                    "modernEnglish": "qu&aelig; ad religionem pertinebant",
-                    "latin": "",
-                    "text": "&ETH;a &eth;e to &aelig-acute;festnesse belumpon <I>qu&aelig; ad religionem pertinebant,</I>"
+                    "modernEnglish": "",
+                    "latin": "qu&aelig; ad religionem pertinebant",
+                    "references": [
+                        [
+                            "Bd.",
+                            [
+                                "4",
+                                "24"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;-festnes,</B> -ness, e; <I>f. Religion, devotion;</I> religio :-- &ETH;a &eth;e to &aelig-acute;festnesse belumpon <I>qu&aelig; ad religionem pertinebant,</I> Bd. 4, 24; S. 597. 1. v. &aelig-acute;-f&aelig;stnes."
@@ -245,14 +490,29 @@
             "heading": "\u00c6ffric",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "afer"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Severus Ca\u0301sere se w\u00e6s \u00c6ffrica cynnes",
-                    "modernEnglish": "Severus C&aelig;sar genere Afer",
-                    "latin": "",
-                    "text": "Severus C&aacute;sere se w&aelig;s &AElig;ffrica cynnes <I>Severus C&aelig;sar genere Afer,</I>"
+                    "modernEnglish": "",
+                    "latin": "Severus C&aelig;sar genere Afer",
+                    "references": [
+                        [
+                            "Bd.",
+                            [
+                                "1",
+                                "5"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&AElig;ffric;</B> <I>def. m.</I> &AElig;ffrica; <I>adj. African;</I> Afer :-- Severus C&aacute;sere se w&aelig;s &AElig;ffrica cynnes <I>Severus C&aelig;sar genere Afer,</I> Bd. 1, 5 ; S. 476, 5. v. Affric."
@@ -261,9 +521,19 @@
             "heading": "\u00e6f-i\u0301st",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "envy",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "envy",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;f-&iacute;st</B> <I>envy;</I> invidia, Mt. Lind. Stv. 27, 18. v. &aelig;f-&eacute;st."
         },
         {
@@ -272,23 +542,50 @@
             "pluralForms": [
                 "es"
             ],
-            "partOfSpeech": "noun/masculine",
-            "meaning": "",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "m.",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;f-l&aacute;st,</B> es; <I>m.</I> [&aelig;f = af <I>from,</I> l&aacute;st <I>a course</I>] <I>A wandering away?</I> aberratio, Cd. 166; Th. 207, 27; Exod. 473."
         },
         {
             "heading": "\u00e6fnan",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {
+                "p": "de",
+                "pp": "ed"
+            },
             "partOfSpeech": "verb",
-            "meaning": "to perform, execute, labour, show",
+            "modernEnglishMeanings": [
+                "to perform, execute, labour, show"
+            ],
+            "latinMeanings": [
+                "patrare, facere, laborare, pr&aelig;stare"
+            ],
             "examples": [
                 {
                     "oldEnglish": "His do\u0301mas \u00e6fna\u00fe",
-                    "modernEnglish": "they fulfil his judgments",
-                    "latin": "",
-                    "text": "His d&oacute;mas &aelig;fna&thorn; <I>they fulfil his judgments,</I>"
+                    "modernEnglish": "",
+                    "latin": "they fulfil his judgments",
+                    "references": [
+                        [
+                            "Exon.",
+                            [
+                                "32"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fnan</B> ; <I>p.</I> de; <I>pp.</I> ed <I>To perform, execute, labour, show;</I> patrare, facere, laborare, pr&aelig;stare :-- His d&oacute;mas &aelig;fna&thorn; <I>they fulfil his judgments,</I> Exon. 32 b; Th. 102, 29; Cri. 1680. Gif h&yacute; woldun his bebodu &aelig;fnan <I>if they would execute his judgments,</I> 54 a ; Th. 152, 29; G&uacute;. 816. Wile coriscipe &aelig;fnan <I>he wishes to show his dignity,</I> 87 a; Th. 327, 3; W&iacute;d. 141. &AElig;fdon unsofte <I>for</I> &aelig;fudon? 27 b; Th. 83, 16; Cri. 1357. DER. ge-&aelig;fnan. v. efnan."
@@ -297,14 +594,36 @@
             "heading": "\u00e6fne",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "interjection",
-            "meaning": "Behold ",
+            "modernEnglishMeanings": [
+                "behold "
+            ],
+            "latinMeanings": [
+                "ecce"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6fne so\u0301\u00feli\u0301ce so\u0301\u00fef\u00e6stnysse \u00f0&uacute; lufudest",
                     "modernEnglish": "",
                     "latin": "ecce enim veritatem dilexisti",
-                    "text": "&AElig;fne s&oacute;&thorn;l&iacute;ce s&oacute;&thorn;f&aelig;stnysse &eth;&uacute; lufudest <I>ecce enim veritatem dilexisti,</I>"
+                    "references": [
+                        [
+                            "Ps. Spl.",
+                            [
+                                "50",
+                                "7"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                },
+                {
+                    "oldEnglish": "v. efne;",
+                    "modernEnglish": "",
+                    "latin": "interj.</I>",
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fne;</B> <I>interj. Behold ;</I> ecce :-- &AElig;fne s&oacute;&thorn;l&iacute;ce s&oacute;&thorn;f&aelig;stnysse &eth;&uacute; lufudest <I>ecce enim veritatem dilexisti,</I> Ps. Spl. 50, 7. v. efne; <I>interj.</I>"
@@ -313,9 +632,19 @@
             "heading": "\u00e6\u0301fnian",
             "alternativeSpellings": [],
             "pluralForms": [],
-            "partOfSpeech": "verb",
-            "meaning": "to grow towards evening",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "p.",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;fnian;</B> <I>p.</I> ode; <I>pp.</I> od <I>To grow towards evening;</I> vesperascere, Dial. 1, 10."
         },
         {
@@ -324,14 +653,28 @@
             "pluralForms": [
                 "e"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/feminine",
-            "meaning": "evening",
+            "modernEnglishMeanings": [
+                "evening"
+            ],
+            "latinMeanings": [
+                "vespera"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Heo\u0301 com \u00f0a\u0301 on \u00e6\u0301fnunge eft to No\u0301e",
                     "modernEnglish": "",
                     "latin": "iila venit ad eum [Noe] ad vesperam",
-                    "text": "He&oacute; com &eth;&aacute; on &aelig-acute;fnunge eft to N&oacute;e <I>iila venit ad eum [Noe] ad vesperam,</I>"
+                    "references": [
+                        [
+                            "Gen.",
+                            [
+                                "8"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;fnung,</B> e ; <I>f. Evening;</I> vespera :-- He&oacute; com &eth;&aacute; on &aelig-acute;fnunge eft to N&oacute;e <I>iila venit ad eum [Noe] ad vesperam,</I> Gen. 8. 11 : Homl. Th. ii. 266. 5. 6."
@@ -342,14 +685,48 @@
                 "\u00e6\u0301fer"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adverb",
-            "meaning": "ever, always",
+            "modernEnglishMeanings": [
+                "ever, always"
+            ],
+            "latinMeanings": [
+                "unquam, semper"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Nolde \u00e6\u0301fre",
                     "modernEnglish": "",
                     "latin": "nolebat unquam",
-                    "text": "Nolde &aelig-acute;fre <I>nolebat unquam,</I>"
+                    "references": [
+                        [
+                            "Cd.",
+                            [
+                                "72"
+                            ]
+                        ],
+                        [
+                            "Th.",
+                            [
+                                "89",
+                                "14"
+                            ]
+                        ],
+                        [
+                            "Gen.",
+                            [
+                                "1480"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                },
+                {
+                    "oldEnglish": "Ne sceal \u00e6\u0301fre gehe\u0301ran",
+                    "modernEnglish": "",
+                    "latin": "nor shall I ever hear",
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;fre,</B> &aelig-acute;fer; <I>adv. Ever, always;</I> unquam, semper :-- Nolde &aelig-acute;fre <I>nolebat unquam,</I> Cd. 72; Th. 89, 14; Gen. 1480. Ne sceal &aelig-acute;fre geh&eacute;ran <I>nor shall I ever hear,</I> 216; Th. 275, 14; Sat. 171. N&uacute; ic e&oacute;m orw&eacute;na &eth;&aelig;t unc se&oacute; &eacute;&eth;yl-st&aelig;f &aelig-acute;fre weor&thorn;e gifede &aelig;tg&aelig;dere <I>now I am hopeless that the staff of our family will ever be given to us two together,</I> 101; Th. 134, 12; Gen. 2223. &ETH;&uacute; &aelig-acute;fre w&aelig-acute;re <I>tu semper fuisti,</I> Exon. 9 b; Th. 8, 2; Cri. 111. &AElig-acute;fre for&thorn; <I>sempiternum,</I> Cd. 220; Th. 282, 35; Sat. 297. &AElig-acute;fre to aldre <I>in &aelig;ternum,</I> 38; Th. 51, 1; Gen. 820. &aelig-acute;fre = &aacute;, <I>q. v.</I>"
@@ -358,14 +735,28 @@
             "heading": "\u00e6\u0301-fremmende",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "Fulfilling the law, religious",
+            "modernEnglishMeanings": [
+                "fulfilling the law, religious"
+            ],
+            "latinMeanings": [
+                "legis pr&aelig;cepta conficiens, religiosus"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Ic l\u00e6\u0301ran wille \u00e6\u0301fremmende \u00f0\u00e6t ge eo\u0301wer h&uacute;s gef\u00e6stnige",
-                    "modernEnglish": "I will teach that you, the laws fulfilling, should make firm your house",
-                    "latin": "",
-                    "text": "Ic l&aelig-acute;ran wille &aelig-acute;fremmende &eth;&aelig;t ge e&oacute;wer h&uacute;s gef&aelig;stnige <I>I will teach that you, the laws fulfilling, should make firm your house,</I>"
+                    "modernEnglish": "",
+                    "latin": "I will teach that you, the laws fulfilling, should make firm your house",
+                    "references": [
+                        [
+                            "Exon.",
+                            [
+                                "75"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;-fremmende;</B> <I>part. Fulfilling the law, religious;</I> legis pr&aelig;cepta conficiens, religiosus :-- Ic l&aelig-acute;ran wille &aelig-acute;fremmende &eth;&aelig;t ge e&oacute;wer h&uacute;s gef&aelig;stnige <I>I will teach that you, the laws fulfilling, should make firm your house,</I> Exon. 75 a ; Th. 281, 18; Jul. 648."
@@ -374,32 +765,75 @@
             "heading": "\u00e6fst",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "envy,",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "envy",
+                    "references": [
+                        [
+                            "Past.",
+                            [
+                                "13",
+                                "2"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;fst</B> <I>envy,</I> Past. 13, 2 ; Hat. MS. 17 a, 12 : Cd. 1 ; Th. 3, 1; Gen. 29. v. &aelig;f-&eacute;st."
         },
         {
             "heading": "\u00e6\u0301fstian",
             "alternativeSpellings": [],
             "pluralForms": [],
-            "partOfSpeech": "verb",
-            "meaning": "to hasten",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "p.",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;fstian;</B> <I>p.</I> ode; <I>pp.</I> od <I>To hasten;</I> festinare, accelerare. v. &eacute;fstan."
         },
         {
             "heading": "\u00e6fstig",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adjective",
-            "meaning": "envious, emulous",
+            "modernEnglishMeanings": [
+                "envious, emulous"
+            ],
+            "latinMeanings": [
+                "&aelig;mulus"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6fstig wi\u00f0 o\u0301\u00f0ra manna yflu",
                     "modernEnglish": "",
                     "latin": "&aelig;mulus contra aliena vitia",
-                    "text": "&AElig;fstig wi&eth; &oacute;&eth;ra manna yflu <I>&aelig;mulus contra aliena vitia,</I>"
+                    "references": [
+                        [
+                            "Past.",
+                            [
+                                "13",
+                                "2"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fstig;</B> <I>adj. Envious, emulous;</I> &aelig;mulus :-- &AElig;fstig wi&eth; &oacute;&eth;ra manna yflu <I>&aelig;mulus contra aliena vitia,</I> Past. 13, 2 ; MS. Hat. 17 a, 11. v. &aelig;f-&eacute;stig."
@@ -408,14 +842,43 @@
             "heading": "\u00e6ft",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adverb",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "postea, iterum"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Moises cw\u00e6\u00fe \u00e6ft to Israela folce",
-                    "modernEnglish": "Moses said afterwards to the people of Israel",
-                    "latin": "",
-                    "text": "Moises cw&aelig;&thorn; &aelig;ft to Israela folce <I>Moses said afterwards to the people of Israel,</I>"
+                    "modernEnglish": "",
+                    "latin": "Moses said afterwards to the people of Israel",
+                    "references": [
+                        [
+                            "Deut.",
+                            [
+                                "28",
+                                "15"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                },
+                {
+                    "oldEnglish": "\u00c6ft uferan do\u0301gum",
+                    "modernEnglish": "",
+                    "latin": "afterwards in later days",
+                    "references": [
+                        [
+                            "Beo. Th.",
+                            [
+                                "4406"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;ft;</B> <I>adv.</I> AFT, <I>behind,</I> as <I>go aft = go astern, Afterwards, again;</I> postea, iterum :-- Moises cw&aelig;&thorn; &aelig;ft to Israela folce <I>Moses said afterwards to the people of Israel,</I> Deut. 28, 15. &AElig;ft uferan d&oacute;gum <I>afterwards in later days,</I> Beo. Th. 4406 note; B. 2200. &ETH;&aelig;t h&iacute; &aelig;ft to him c&oacute;men <I>that they would come to him again,</I> Bt. Met. Fox 1,130; Met. 1, 65. v. eft."
@@ -424,14 +887,28 @@
             "heading": "\u00e6ftan",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adverb",
-            "meaning": "behind",
+            "modernEnglishMeanings": [
+                "behind"
+            ],
+            "latinMeanings": [
+                "post, pone"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Earn \u00e6ftan hwit",
-                    "modernEnglish": "the eagle white behind",
-                    "latin": "",
-                    "text": "Earn &aelig;ftan hwit <I>the eagle white behind,</I>"
+                    "modernEnglish": "",
+                    "latin": "the eagle white behind",
+                    "references": [
+                        [
+                            "Chr.",
+                            [
+                                "937"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;ftan;</B> <I>adv. Behind;</I> post, pone :-- Earn &aelig;ftan hwit <I>the eagle white behind,</I> Chr. 937; Th. i. 206, 29; &AElig;&eth;elst. 63, col. 1. DER. be-&aelig;ftan."
@@ -440,14 +917,28 @@
             "heading": "\u00e6ftan-weard",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adjective",
-            "meaning": "coming after, following",
+            "modernEnglishMeanings": [
+                "coming after, following"
+            ],
+            "latinMeanings": [
+                "posterior"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Rinc bi\u00fe on o\u0301feste, se mec on\u00fey\u0301\u00fe \u00e6ftanweardne",
-                    "modernEnglish": "the man is in haste, who urges me following",
-                    "latin": "",
-                    "text": "Rinc bi&thorn; on &oacute;feste, se mec on&thorn;&yacute;&thorn; &aelig;ftanweardne <I>the man is in haste, who urges me following,</I>"
+                    "modernEnglish": "",
+                    "latin": "the man is in haste, who urges me following",
+                    "references": [
+                        [
+                            "Exon.",
+                            [
+                                "125"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;ftan-weard;</B> <I>adj. Coming after, following;</I> posterior :-- Rinc bi&thorn; on &oacute;feste, se mec on&thorn;&yacute;&thorn; &aelig;ftanweardne <I>the man is in haste, who urges me following,</I> Exon. 125 a ; Th. 480, 3 ; R&auml;. 63, 5. v. weard <B>II;</B> <I>adj.</I>"
@@ -456,9 +947,26 @@
             "heading": "\u00e6ft-beteht",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "re-assigned,",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "re-assigned",
+                    "references": [
+                        [
+                            "R. Ben.",
+                            [
+                                "4"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;ft-beteht</B> <I>re-assigned,</I> R. Ben. 4. v. eft-bet&aelig;ht."
         },
         {
@@ -468,14 +976,29 @@
                 "-most"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adjective",
-            "meaning": "superlative of &aelig;fter ,- after-most, last",
+            "modernEnglishMeanings": [
+                "superlative of &aelig;fter ,- after-most, last"
+            ],
+            "latinMeanings": [
+                "postremus, novissimus"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00d0eo\u0301s bo\u0301c is \u00e6ftemyst on \u00f0\u00e6re biblio\u00fee\u0301can",
-                    "modernEnglish": "this is the last book of the Bible",
-                    "latin": "",
-                    "text": "&ETH;e&oacute;s b&oacute;c is &aelig;ftemyst on &eth;&aelig;re biblio&thorn;&eacute;can <I>this is the last book of the Bible,</I>"
+                    "modernEnglish": "",
+                    "latin": "this is the last book of the Bible",
+                    "references": [
+                        [
+                            "&AElig;lfc. T.",
+                            [
+                                "31",
+                                "22"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;ftemest,</B> -myst, -most; <I>adj. superlative of &aelig;fter ,- After-most, last;</I> postremus, novissimus :-- &ETH;e&oacute;s b&oacute;c is &aelig;ftemyst on &eth;&aelig;re biblio&thorn;&eacute;can <I>this is the last book of the Bible,</I> &AElig;lfc. T. 31, 22; Grn. &AElig;lfc. T. 16, 3. &ETH;onne he sylf mid &eth;am fyrmestan d&aelig-acute;le wi&eth; &eth;&aelig;s &aelig;ftemestan fl&uacute;ge <I>when he himself with the first part should flee towards the hindermost,</I> Ors. 4, 6 ; Bos. 85, 20: Mk. Bos. 12, 22: Jn. Bos. 7. 37."
@@ -486,14 +1009,28 @@
             "pluralForms": [
                 "e"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/feminine",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "vespertinum tempus, vesper"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6\u0301r morgenes gancg wi\u00f0 \u00e6ftenti\u0301d ealle \u00f0a de\u0301man Drihten healde\u00fe",
                     "modernEnglish": "",
                     "latin": "exitus matutini et vespere delectaberis",
-                    "text": "&AElig-acute;r morgenes gancg wi&eth; &aelig;ftent&iacute;d ealle &eth;a d&eacute;man Drihten healde&thorn; <I>exitus matutini et vespere delectaberis,</I>"
+                    "references": [
+                        [
+                            "Ps. Th.",
+                            [
+                                "64"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;ften-t&iacute;d,</B> e; <I>f.</I> [&aelig;ftan <I>after</I>] <I>Evening, eventide;</I> vespertinum tempus, vesper :-- &AElig-acute;r morgenes gancg wi&eth; &aelig;ftent&iacute;d ealle &eth;a d&eacute;man Drihten healde&thorn; <I>exitus matutini et vespere delectaberis,</I> Ps. Th. 64. 9."
@@ -502,14 +1039,51 @@
             "heading": "\u00e6fter",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "preposition",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "- after; post"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Ne far \u00f0&uacute; \u00e6fter fremdum godum",
-                    "modernEnglish": "go not thou after strange gods",
-                    "latin": "",
-                    "text": "Ne far &eth;&uacute; &aelig;fter fremdum godum <I>go not thou after strange gods,</I>"
+                    "modernEnglish": "",
+                    "latin": "go not thou after strange gods",
+                    "references": [
+                        [
+                            "Deut.",
+                            [
+                                "6",
+                                "14"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                },
+                {
+                    "oldEnglish": "\u00c6fter \u00feri\u0301m mon\u00feum",
+                    "modernEnglish": "",
+                    "latin": "after three months",
+                    "references": [
+                        [
+                            "Gen.",
+                            [
+                                "38",
+                                "24"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                },
+                {
+                    "oldEnglish": "\u00c6fter dagum",
+                    "modernEnglish": "",
+                    "latin": "after those days",
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;fter;</B> <I>prep.</I> [&aelig;ft, <I>q. v;</I> er, <I>q.v.</I>] <I>dat;</I> rarely <I>acc.</I> <B>1.</B> local and temporal <I>dat.</I> - AFTER; post :-- Ne far &eth;&uacute; &aelig;fter fremdum godum <I>go not thou after strange gods,</I> Deut. 6, 14. &AElig;fter &thorn;r&iacute;m mon&thorn;um <I>after three months,</I> Gen. 38, 24. &AElig;fter dagum <I>after those days,</I> Lk. Bos. 1, 24. Cuma&thorn; &aelig;fter me <I>venite post me,</I> Mt. Bos. 4, 19. &AElig;fter &thorn;r&yacute;m dagum [MS. dagon] ic ar&iacute;se <I>post tres dies resurgam,</I> Mt. Bos. 27, 63. &ETH;&aacute; e&oacute;de &eth;&aelig;t w&iacute;f &aelig;fter him <I>then the wife went after him,</I> Bt. 35, 6; Fox 170, 13. H&aacute;m sta&eth;eledon, &aacute;n &aelig;fter &oacute;drum <I>they established a home, one after another,</I> Cd. 213; Th. 266, 22 ; Sat. 26. &AElig;fter &eth;&aacute;m wordum werod eall ar&aacute;s <I>after those words all the host rose,</I> Cd. 158; Th. 196, 29; Exod. 299: Exon. 28 b; Th. 86, 24; Cri. 1413. Wunder &aelig;fter wundre <I>wonder afer wonder,</I> Beo. Th. 1866; B. 931: Cd. 8; Th. 9, 19; Gen. 144 Cd. 46; Th. 59, 15; Gen. 964: Cd. 143; Th. 178, 1; Exod. 5 : Cd. 148; Th.184,18; Exod. 109: Cd. 227; Th. 304, 14; Sat. 630: Exon. 16 a; Th. 36, 8; Cri. 573: Exon. 18 a; Th. 44. 31; Cri, 711: Exon. 117 a; Th. 449, 32; D&oacute;m. 80: Exon. 117 a; Th. 450, 3; D&oacute;m. 82: Exon. 124 a; Th. 476, 20; Ruin. 10: Beo. Th. 170; B. 85: Beo. Th. 238; B. 119: Apstls. Kmbl. 163; Ap.82: Andr. Kmbl. 175; An. 88: Andr. Kmbl. 265; An. 133: Exon. 39 b ; Th. 130, 22 ; G&uacute;. 442: Exon. 40 b ; Th. 134, 5; G&uacute;. 503: Elen. Kmbl. 859; El. 430: Elen. Kmbl. 977; El 490: Exon. 118 a ; Th. 454, 10 ; Hy. 4, 30. <B>2.</B> extension over space or time, - <I>Along, through, during; &kappa;&alpha;&tau;&alpha-tonos;,</I> per :-- S&aelig-acute;ton &aelig;fter beorgum <I>they sat along the hills,</I> Cd.154; Th. 191, 9; Exod. 212. His wundra geweorc, w&iacute;de and s&iacute;de, br&eacute;me &aelig;fter burgum <I>his works of wonder, far and wide, famed through towns,</I> Exon.45 b; Th. 155, 4; G&uacute;. 855. &ETH;e&aacute;h ic fela for him &aelig;fter woruldstundum wundra gefremede <I>though I performed many miracles for them during my time in this world,</I> Elen. Kmbl. 725 ; El. 363: Exon. 55 b; Th. 196, 18 ; Az. 176: Judth. 10 ; Thw. 21, 17; Jud. 18: Salm. Kmbl. 233; Sal. 116: Exon. 108 a; Th. 412, 25 ; R&auml; . 31, 5. <B>3.</B> mode or manner, - <I>According to, by means of;</I> secundum, propter :-- &AElig;fter d&oacute;me &eth;&iacute;num gel&iacute;ff&aelig;sta me <I>secundum judicium tuum vivifica me,</I> Ps. Lamb. 118, 149. He h&aelig;f&thorn; mon geworhtne &aelig;fter his onl&iacute;cnesse <I>he has created man after</I> [secundum] <I>his own image,</I> Cd. 21; Th. 25, 19; Gen. 396. &ETH;&aelig;t sweord ongan &aelig;fter hea&eth;osw&aacute;te wanian <I>the sword began to fade away by the warsweat [in consequence of the hot blood],</I> Beo. Th. 3216; B. 16006: Exon. 19 b; Th. 50, 20; Cri. 803: Andr. Kmbl. 156; An. 78: Exon. 45 b; Th. 154, 27; G&uacute;. 849: Bt. Met. Fox 20, 93; Met. 20, 47: Exon. 110 a ; Th. 421, 8 ; R&auml;. 40, 15: Beo. Th. 5499 ; B. 2753: Cd. 28; Th. 37, 19; Gen. 592. <B>4.</B> object, - <I>After, about;</I> propter, ob, de :-- H&aelig;le&thorn; fr&aelig;gn &aelig;fter &aelig;&eth;elum <I>a chief asked after the heroes,</I> Beo. Th. 670; B. 332. Him &aelig;fter de&oacute;rum men dyrne langa&thorn; <I>he longs secretly after the dear man,</I> Beo. Th. 3762; B. 1879. Gr&oacute;f &aelig;fter golde <I>he dug after gold,</I> Bt. Met. Fox 8, 113; Met. 8. 57: Elen. Kmbl. 1346; El. 675: Beo. Th. 2648; B. 1322; Beo. Th. 2688; B. 1342: Cd. 15: Th. 18, 33; Gen. 282: Cd. 15; Th. 19, 14; Gen. 291: Cd. 92; Th. 117, 20; Gen. 1956: Cd. 98; Th. 130, 3; Gen. 2154: Cd. 203; Th. 251, 30; Dan. 571: Elen. Kmbl.1653; El. 828: Andr. Kmbl. 74; An. 37: Beo. Th. 4913; B.2461: Beo. Th. 4917; B. 2463: Beo. Th. 4528; B. 2268. <B>II.</B> <I>acc;</I> cum accusativo, <I>After, above, according to;</I> post, super, secundum :-- &AElig;fter &eth;&aacute;s dagas <I>post hos dies,</I> Lk. Lind. War. 1, 25. He eor&thorn;an &aelig;fter w&aelig;ter &aelig-acute;rest sette <I>qui fundavit terram super aquas,</I> Ps. Th. 135, 6. Stefne m&iacute;ne geh&eacute;r &aelig;fter mildheortnesse &eth;&iacute;ne, Drihten <I>vocem meam audi secundum misericordiam tuam, Domine,</I> Ps. Lamb. 118, 149. [<I>O. Sax.</I> aftar, after : <I>O. Frs.</I> efter, after : <I>O. Dut. N. Dut.</I> achter : <I>Ger.</I> after, <I>only in compnd: M. H. Ger.</I> after : <I>O. H Ger.</I> aftar : <I>Goth.</I> aftra <I>backward, again: Dan.</I> efter : <I>Swed.</I> efter : <I>O. Nrs.</I> eptir, eftir, <I>prep;</I> aptr, aftr, <I>adv. back, again : Sansk.</I> apara.]"

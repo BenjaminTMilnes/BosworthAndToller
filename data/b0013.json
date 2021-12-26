@@ -7,14 +7,41 @@
             "pluralForms": [
                 "e"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/feminine",
-            "meaning": "valuation, estimation, deliberation, council",
+            "modernEnglishMeanings": [
+                "valuation, estimation, deliberation, council"
+            ],
+            "latinMeanings": [
+                "&aelig;stimatio, deliberatio, consilium"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Fira bearn \u00e6ht besitta\u00fe",
-                    "modernEnglish": "the sons of men sit in council",
-                    "latin": "",
-                    "text": "Fira bearn &aelig;ht besitta&thorn; <I>the sons of men sit in council,</I>"
+                    "modernEnglish": "",
+                    "latin": "the sons of men sit in council",
+                    "references": [
+                        [
+                            "Andr. Kmbl.",
+                            [
+                                "820"
+                            ]
+                        ],
+                        [
+                            "An.",
+                            [
+                                "410"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                },
+                {
+                    "oldEnglish": "Biscopas and bo\u0301ceras and ealdormen \u00e6ht bes\u00e6\u0301ton",
+                    "modernEnglish": "",
+                    "latin": "bishops and scribes and princes sat in council",
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;ht,</B> e; <I>f. Valuation, estimation, deliberation, council;</I> &aelig;stimatio, deliberatio, consilium :-- Fira bearn &aelig;ht besitta&thorn; <I>the sons of men sit in council,</I> Andr. Kmbl. 820; An. 410. Biscopas and b&oacute;ceras and ealdormen &aelig;ht bes&aelig-acute;ton <I>bishops and scribes and princes sat in council,</I> Andr; Kmbl. 1216; An. 608. v. eaht <I>deliberation, council.</I>"
@@ -25,14 +52,41 @@
             "pluralForms": [
                 "e"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/feminine",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "persecutio, hostilitas"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00d0a\u0301 w\u00e6s \u00e6\u0301ht boden Sweo\u0301na leo\u0301dum",
-                    "modernEnglish": "then was persecution announced to the people of the Swedes",
-                    "latin": "",
-                    "text": "&ETH;&aacute; w&aelig;s &aelig-acute;ht boden Swe&oacute;na le&oacute;dum <I>then was persecution announced to the people of the Swedes,</I>"
+                    "modernEnglish": "",
+                    "latin": "then was persecution announced to the people of the Swedes",
+                    "references": [
+                        [
+                            "Beo. Th.",
+                            [
+                                "5907"
+                            ]
+                        ],
+                        [
+                            "B.",
+                            [
+                                "2957"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                },
+                {
+                    "oldEnglish": "[",
+                    "modernEnglish": "",
+                    "latin": "Ger.",
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;ht,</B> e; <I>f.</I> [&eacute;ntan <I>to persecute</I>] <I>Persecution, hostility;</I> persecutio, hostilitas :-- &ETH;&aacute; w&aelig;s &aelig-acute;ht boden Swe&oacute;na le&oacute;dum <I>then was persecution announced to the people of the Swedes,</I> Beo. Th. 5907; B. 2957. [<I>Ger.</I> acht, <I>f. proscriptio: M. H. Ger.</I> &aacute;hte, &aelig;hte: <I>O. H. Ger.</I> ahta, <I>f. persecutio.</I>]"
@@ -43,14 +97,21 @@
             "pluralForms": [
                 "e"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/feminine",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "opes, substantia, possessio, greges"
+            ],
             "examples": [
                 {
                     "oldEnglish": "He h\u00e6fde mycele \u00e6\u0301hta",
                     "modernEnglish": "",
                     "latin": "erat habens multas possessions",
-                    "text": "He h&aelig;fde mycele &aelig-acute;hta <I>erat habens multas possessions,</I>"
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;ht,</B> e; <I>f.</I> [&aelig-acute;hte = &aacute;hte <I>had; p. of</I> &aacute;gan <I>to own, possess</I>] I. <I>possessions, property, lands, goods, riches, cattle;</I> opes, substantia, possessio, greges :-- He h&aelig;fde mycele &aelig-acute;hta <I>erat habens multas possessions,</I> Mk. Bos. 10, 22. Esau nam ealle his &aelig-acute;hta, and eall &eth;&aelig;t he &aelig-acute;hte <I>Esau took all his goods, and all that he possessed,</I> Gen. 36, 6. Gr&uacute;ndle&aacute;s g&iacute;tsung gilpes and &aelig-acute;hta <I>bottomless avarice of glory and possessions,</I> Bt. Met. Fox 7, 30; Met. 7, 15. Isra&eacute;la &aelig-acute;hta <I>the Israelites' possessions,</I> Cd. 174; Th. 218, 23; Dan. 43. Genam on eallum d&aelig-acute;l &aelig-acute;htum s&iacute;num <I>he took a part of all his possessions,</I> 74; Th. 90, 23; Gen. 1499. Ealle his &aelig-acute;hta <I>omnem substantiam ejus,</I> Ps. Th. 108, 11. II. <I>possession, power;</I> possessio, potestas :-- His miht and his &aelig-acute;ht ofer middangeard gebledsod <I>his might and power is blessed throughout the earth.</I> Andr. Kmbl. 3432; An. 1720. &Aacute;gan us &eth;is wuldres le&oacute;ht eall to &aelig-acute;hte <I>let us get all this light of glory into our possession,</I> Cd. 219; Th. 280, 11; Sat. 254. On &aacute;gene &aelig-acute;ht syllan <I>in possessionem dare,</I> Ps. Th. 104, 10, 39: 110, 4. [<I>Scot.</I> audit: <I>O. H. Ger.</I> &eacute;ht, <I>f: Goth,</I> a&iacute;hts, <I>f: O. Nrs.</I> &aelig-acute;tt, &aacute;tt <I>family</I>] DER. gold-, m&aacute;&eth;um-, sta&eth;ol-, wan-, won-."
@@ -59,18 +120,52 @@
             "heading": "\u00e6hta",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "eight,",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "eight",
+                    "references": [
+                        [
+                            "Chr.",
+                            [
+                                "1070"
+                            ]
+                        ],
+                        [
+                            "Th.",
+                            [
+                                "345",
+                                "32"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;hta</B> <I>eight,</I> Chr. 1070; Th. 345, 32. v. eahta."
         },
         {
             "heading": "\u00e6\u0301hte",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "had, owned, possessed,",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "had, owned, possessed",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;hte</B> <I>had, owned, possessed,</I> v. &aacute;hte; <I>p. of</I> &aacute;gan."
         },
         {
@@ -79,14 +174,27 @@
             "pluralForms": [
                 "es"
             ],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "n.",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                "terra possessionis"
+            ],
             "examples": [
                 {
                     "oldEnglish": "For\u00f0on \u00f0e Peohtas heora \u00e6\u0301hte land \u00f0\u00e6tte Angle \u00e6\u0301r h\u00e6fdon eft onfe\u0301ngon",
-                    "modernEnglish": "nam Picti tenam possessions su&aelig; quam tenuerunt Angli receperunt",
-                    "latin": "",
-                    "text": "For&eth;on &eth;e Peohtas heora &aelig-acute;hte land &eth;&aelig;tte Angle &aelig-acute;r h&aelig;fdon eft onf&eacute;ngon <I>nam Picti tenam possessions su&aelig; quam tenuerunt Angli receperunt,</I>"
+                    "modernEnglish": "",
+                    "latin": "nam Picti tenam possessions su&aelig; quam tenuerunt Angli receperunt",
+                    "references": [
+                        [
+                            "Bd.",
+                            [
+                                "4",
+                                "26"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;hte land,</B> es; <I>n.</I> [&aelig-acute;ht <I>property</I>] <I>Landed property;</I> terra possessionis :-- For&eth;on &eth;e Peohtas heora &aelig-acute;hte land &eth;&aelig;tte Angle &aelig-acute;r h&aelig;fdon eft onf&eacute;ngon <I>nam Picti tenam possessions su&aelig; quam tenuerunt Angli receperunt,</I> Bd. 4, 26; S. 602, 29."
@@ -100,14 +208,27 @@
             "pluralForms": [
                 "es"
             ],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "pl.",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                "colonus"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Laboratores sind yr\u00felingas and \u00e6\u0301hte men",
-                    "modernEnglish": "labourers are ploughmen and husbandmen",
-                    "latin": "",
-                    "text": "Laboratores sind yr&thorn;lingas and &aelig-acute;hte men <I>labourers are ploughmen and husbandmen,</I>"
+                    "modernEnglish": "",
+                    "latin": "labourers are ploughmen and husbandmen",
+                    "references": [
+                        [
+                            "&AElig;lfc. T.",
+                            [
+                                "40",
+                                "20"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;hte</B> man, mann, es; <I>pl.</I> men; <I>m. A husbandman, a farmer, ploughman;</I> colonus :-- Laboratores sind yr&thorn;lingas and &aelig-acute;hte men <I>labourers are ploughmen and husbandmen,</I> &AElig;lfc. T. 40, 20."
@@ -118,9 +239,19 @@
             "pluralForms": [
                 "es"
             ],
-            "partOfSpeech": "noun/masculine",
-            "meaning": "an estimator, a valuer",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "m. An estimator, a valuer",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;htere,</B> es; <I>m. An estimator, a valuer;</I> &aelig;stimator, &AElig;lfc. Gl. 114; Som. 80, 25."
         },
         {
@@ -129,9 +260,19 @@
             "pluralForms": [
                 "es"
             ],
-            "partOfSpeech": "noun/masculine",
-            "meaning": "",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "m.",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;hte sw&aacute;n,</B> es; <I>m.</I> [&aelig-acute;ht <I>property,</I> sw&aacute;n <I>swain</I> or <I>herdsman: O. H. Ger.</I> sweinn <I>a herdsman</I>] <I>A cowherd, swineherd, who belongs to the property of his lord;</I> bubulcus, porcarius qui in peculio domini est, L. R. S. 7; Th. i. 436, 22."
         },
         {
@@ -140,14 +281,26 @@
             "pluralForms": [
                 "es"
             ],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "n. Possession",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                "possessio"
+            ],
             "examples": [
                 {
                     "oldEnglish": "He \u00f0a bry\u0301dlufan sceal to o\u00f0erre \u00e6\u0301htgestealdum idese se\u0301can",
-                    "modernEnglish": "he must seek conjugal love in the possession of another woman",
-                    "latin": "",
-                    "text": "He &eth;a br&yacute;dlufan sceal to o&eth;erre &aelig-acute;htgestealdum idese s&eacute;can <I>he must seek conjugal love in the possession of another woman,</I>"
+                    "modernEnglish": "",
+                    "latin": "he must seek conjugal love in the possession of another woman",
+                    "references": [
+                        [
+                            "Exon.",
+                            [
+                                "67"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;ht-gesteald,</B> es; <I>n. Possession;</I> possessio :-- He &eth;a br&yacute;dlufan sceal to o&eth;erre &aelig-acute;htgestealdum idese s&eacute;can <I>he must seek conjugal love in the possession of another woman,</I> Exon. 67 b; Th. 249, 22 ; Jul. 115."
@@ -158,14 +311,26 @@
             "pluralForms": [
                 "es"
             ],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "n. Possessions, riches",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                "possessio, diviti&aelig"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00d0onne li\u0301g eal \u00feige\u00fe eor\u00fean \u00e6\u0301htgestreo\u0301n",
-                    "modernEnglish": "when the flame devours all the possessions of the earth",
-                    "latin": "",
-                    "text": "&ETH;onne l&iacute;g eal &thorn;ige&thorn; eor&thorn;an &aelig-acute;htgestre&oacute;n <I>when the flame devours all the possessions of the earth,</I>"
+                    "modernEnglish": "",
+                    "latin": "when the flame devours all the possessions of the earth",
+                    "references": [
+                        [
+                            "Exon.",
+                            [
+                                "63"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;ht-gestre&oacute;n,</B> es; <I>n. Possessions, riches;</I> possessio, diviti&aelig; :-- &ETH;onne l&iacute;g eal &thorn;ige&thorn; eor&thorn;an &aelig-acute;htgestre&oacute;n <I>when the flame devours all the possessions of the earth,</I> Exon. 63 a; Th. 232,13; Ph. 506."
@@ -176,14 +341,49 @@
             "pluralForms": [
                 "es"
             ],
-            "partOfSpeech": "",
-            "meaning": "Possession, power, the power of the possessor",
+            "conjugations": {},
+            "partOfSpeech": "noun/masculine",
+            "modernEnglishMeanings": [
+                "possession, power, the power of the possessor",
+                "n. possession, power, the power of the possessor"
+            ],
+            "latinMeanings": [
+                "potestas possessoria"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Cw\u00e6\u00fe he his sylfes sunu syllan wolde on \u00e6\u0301htgeweald",
-                    "modernEnglish": "he said that he would give his own son into their power",
-                    "latin": "",
-                    "text": "Cw&aelig;&thorn; he his sylfes sunu syllan wolde on &aelig-acute;htgeweald <I>he said that he would give his own son into their power,</I>"
+                    "modernEnglish": "",
+                    "latin": "he said that he would give his own son into their power",
+                    "references": [
+                        [
+                            "Andr. Kmbl.",
+                            [
+                                "2221"
+                            ]
+                        ],
+                        [
+                            "An.",
+                            [
+                                "1112"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                },
+                {
+                    "oldEnglish": "\u00d0&uacute; usic bewr\u00e6\u0301ce in \u00e6\u0301htgewealda",
+                    "modernEnglish": "",
+                    "latin": "tu nos tradidisti in potestatem",
+                    "references": [
+                        [
+                            "Exon.",
+                            [
+                                "53"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;ht-geweald,</B> es; <I>m. n. Possession, power, the power of the possessor;</I> potestas possessoria :-- Cw&aelig;&thorn; he his sylfes sunu syllan wolde on &aelig-acute;htgeweald <I>he said that he would give his own son into their power,</I> Andr. Kmbl. 2221; An. 1112. &ETH;&uacute; usic bewr&aelig-acute;ce in &aelig-acute;htgewealda <I>tu nos tradidisti in potestatem,</I> Exon. 53 a; Th. 186, 28; Az. 26."
@@ -194,23 +394,40 @@
                 "[\u00e6\u0301ht"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "persecution",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "persecution",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;htian</B> [&aelig-acute;ht <I>persecution</I>] <I>to persecute;</I> persequi. v. &eacute;htan."
         },
         {
             "heading": "\u00e6\u0301ht-spe\u0301dig",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adjective",
-            "meaning": "wealthy, rich",
+            "modernEnglishMeanings": [
+                "wealthy, rich"
+            ],
+            "latinMeanings": [
+                "locuples, opulentus"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Se is betra \u00f0onne \u00f0&uacute;, \u00e6\u0301htspe\u0301digra feoh-gestreo\u0301na",
-                    "modernEnglish": "he is better than thou, richer in money-treasures",
-                    "latin": "",
-                    "text": "Se is betra &eth;onne &eth;&uacute;, &aelig-acute;htsp&eacute;digra feoh-gestre&oacute;na <I>he is better than thou, richer in money-treasures</I>"
+                    "modernEnglish": "",
+                    "latin": "he is better than thou, richer in money-treasures",
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;ht-sp&eacute;dig;</B> <I>adj. Wealthy, rich;</I> locuples, opulentus :-- Se is betra &eth;onne &eth;&uacute;, &aelig-acute;htsp&eacute;digra feoh-gestre&oacute;na <I>he is better than thou, richer in money-treasures</I> Exon. <I>67a;</I> Th. 248, 26; Jul. 101."
@@ -221,9 +438,19 @@
             "pluralForms": [
                 "e"
             ],
-            "partOfSpeech": "noun/feminine",
-            "meaning": "estimation, valuing",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "f. Estimation, valuing",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;htung,</B> e; <I>f. Estimation, valuing;</I> &aelig;stimatio, &AElig;lfc. Gl. 114; Som. 80, 26. v. eahtung."
         },
         {
@@ -232,14 +459,28 @@
             "pluralForms": [
                 "an"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/masculine",
-            "meaning": "wealth, riches",
+            "modernEnglishMeanings": [
+                "wealth, riches"
+            ],
+            "latinMeanings": [
+                "opes, diviti&aelig"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Gelufian eor\u00fean \u00e6\u0301htwelan",
-                    "modernEnglish": "to love earth's riches",
-                    "latin": "",
-                    "text": "Gelufian eor&thorn;an &aelig-acute;htwelan <I>to love earth's riches,</I>"
+                    "modernEnglish": "",
+                    "latin": "to love earth's riches",
+                    "references": [
+                        [
+                            "Exon.",
+                            [
+                                "38"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;ht-wela,</B> an; <I>m. Wealth, riches;</I> opes, diviti&aelig; :-- Gelufian eor&thorn;an &aelig-acute;htwelan <I>to love earth's riches,</I> Exon. 38a; Th. 125, 24; G&uacute;. 359: Apstls. Kmbl. 167; Ap. 84."
@@ -248,14 +489,28 @@
             "heading": "\u00e6\u0301ht-welig",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adjective",
-            "meaning": "rich, wealthy",
+            "modernEnglishMeanings": [
+                "rich, wealthy"
+            ],
+            "latinMeanings": [
+                "locuples"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Sum w\u00e6s \u00e6\u0301htwelig gere\u0301fa",
-                    "modernEnglish": "there was a wealthy count",
-                    "latin": "",
-                    "text": "Sum w&aelig;s &aelig-acute;htwelig ger&eacute;fa <I>there was a wealthy count,</I>"
+                    "modernEnglish": "",
+                    "latin": "there was a wealthy count",
+                    "references": [
+                        [
+                            "Exon.",
+                            [
+                                "66"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;ht-welig;</B> <I>adj. Rich, wealthy;</I> locuples :-- Sum w&aelig;s &aelig-acute;htwelig ger&eacute;fa <I>there was a wealthy count,</I> Exon. 66a; Th. 243, 29; Jul. 18."
@@ -264,18 +519,38 @@
             "heading": "\u00e6\u0301-hw\u00e6\u0301r",
             "alternativeSpellings": [],
             "pluralForms": [],
-            "partOfSpeech": "adverb",
-            "meaning": "everywhere",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "adv. Everywhere",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;-hw&aelig-acute;r;</B> <I>adv. Everywhere;</I> ubique. Ps. Th. 88, 31. v. &aacute;-hw&aelig-acute;r."
         },
         {
             "heading": "\u00e6-hwyrfan",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "To turn from, avert",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "To turn from, avert",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;-hwyrfan</B> <I>To turn from, avert;</I> avertere, Ps. Spl. T. 53, 5. v. a-hwerfan, hwyrfan, hweorfan."
         },
         {
@@ -284,14 +559,19 @@
             "pluralForms": [
                 "es"
             ],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "n. An egg",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                "ovum"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00d0\u00e6t \u00e6ig geta\u0301cna\u00fe hiht: \u00e6\u0301rest hit bi\u00fe \u00e6ig, and seo\u0301 mo\u0301dor si\u00f0\u00f0an mid hihte bret \u00f0\u00e6t \u00e6ig to bridde",
-                    "modernEnglish": "the egg betokens hope: first it is an egg, and the mother then with hope cherishes the egg to a young bird",
-                    "latin": "",
-                    "text": "&ETH;&aelig;t &aelig;ig get&aacute;cna&thorn; hiht: &aelig-acute;rest hit bi&thorn; &aelig;ig, and se&oacute; m&oacute;dor si&eth;&eth;an mid hihte bret &eth;&aelig;t &aelig;ig to bridde <I>the egg betokens hope: first it is an egg, and the mother then with hope cherishes the egg to a young bird,</I>"
+                    "modernEnglish": "",
+                    "latin": "the egg betokens hope: first it is an egg, and the mother then with hope cherishes the egg to a young bird",
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;ig,</B> es; <I>n. An egg;</I> ovum :-- &ETH;&aelig;t &aelig;ig get&aacute;cna&thorn; hiht: &aelig-acute;rest hit bi&thorn; &aelig;ig, and se&oacute; m&oacute;dor si&eth;&eth;an mid hihte bret &eth;&aelig;t &aelig;ig to bridde <I>the egg betokens hope: first it is an egg, and the mother then with hope cherishes the egg to a young bird,</I> Homl. Th. i. 250, 22-24. v. &aelig;g."
@@ -300,23 +580,46 @@
             "heading": "\u00e6l-",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "prefix.",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "prefix.",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;l-;</B> <I>prefix.</I> I. = eal <I>all;</I> totus, omnis, as &aelig;l-beorht, &aelig;l-ceald, <I>etc.</I> II. &aelig;l- = el-, <I>ee-, foreign;</I> peregrinus, as &aelig;l-fylce, &aelig;l-wihta, <I>etc</I>."
         },
         {
             "heading": "\u00e6l",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "e;f. An awl",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                "subula"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Hwanon sceo\u0301-wyrhtan \u00e6l",
-                    "modernEnglish": "unde sutori subula",
-                    "latin": "",
-                    "text": "Hwanon sce&oacute;-wyrhtan &aelig;l <I>unde sutori subula,</I>"
+                    "modernEnglish": "",
+                    "latin": "unde sutori subula",
+                    "references": [
+                        [
+                            "Coll. Monast. Th.",
+                            [
+                                "30",
+                                "33"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;l,</B> <I>e;f. An awl;</I> subula :-- Hwanon sce&oacute;-wyrhtan &aelig;l <I>unde sutori subula,</I> Coll. Monast. Th. 30, 33: L. Alf. 11; Th. i. 46, 10. &AElig;l <I>subula</I>, &AElig;lfc. Gl. 1; Som. 55, <I>27;</I> Wrt. Voc. 16, 2. v. al."
@@ -327,14 +630,29 @@
             "pluralForms": [
                 "es"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/masculine",
-            "meaning": "oil",
+            "modernEnglishMeanings": [
+                "oil"
+            ],
+            "latinMeanings": [
+                "oleum"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00d0a sceolon beo\u0301n \u00e6le bracene",
-                    "modernEnglish": "they must be beaten up with oil",
-                    "latin": "",
-                    "text": "&ETH;a sceolon be&oacute;n &aelig;le bracene <I>they must be beaten up with oil,</I>"
+                    "modernEnglish": "",
+                    "latin": "they must be beaten up with oil",
+                    "references": [
+                        [
+                            "Lev.",
+                            [
+                                "6",
+                                "21"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;l,</B> es; <I>m. Oil;</I> oleum :-- &ETH;a sceolon be&oacute;n &aelig;le bracene <I>they must be beaten up with oil,</I> Lev. 6, 21. v. ele."
@@ -345,14 +663,44 @@
             "pluralForms": [
                 "es"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/masculine",
-            "meaning": "an",
+            "modernEnglishMeanings": [
+                "an"
+            ],
+            "latinMeanings": [
+                "eel; anguilla"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Hwilce fixas gefehst \u00f0&uacute;? \u00e6\u0301las and hacodas",
-                    "modernEnglish": "what fishes catchest thou ? eels and haddocks.",
-                    "latin": "",
-                    "text": "Hwilce fixas gefehst &eth;&uacute;? &aelig-acute;las and hacodas <I>what fishes catchest thou ? eels and haddocks.</I>"
+                    "modernEnglish": "",
+                    "latin": "what fishes catchest thou ? eels and haddocks.",
+                    "references": [
+                        [
+                            "Coll. Monast. Th.",
+                            [
+                                "23",
+                                "33"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                },
+                {
+                    "oldEnglish": "Ac seo\u0301 \u00feeo\u0301d \u00f0one cr\u00e6ft ne c&uacute;\u00f0o \u00f0\u00e6s fiscno\u0301\u00f0es nym\u00fee to \u00e6\u0301lum a\u0301num",
+                    "modernEnglish": "",
+                    "latin": "sed piscandi peritia genti nutta nisi ad anguillas tantum inerati.",
+                    "references": [
+                        [
+                            "Bd.",
+                            [
+                                "4",
+                                "13"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&AElig-acute;L,</B> es; <I>m. An</I> EEL; anguilla :-- Hwilce fixas gefehst &eth;&uacute;? &aelig-acute;las and hacodas <I>what fishes catchest thou ? eels and haddocks.</I> Coll. Monast. Th. 23, 33. Ac se&oacute; &thorn;e&oacute;d &eth;one cr&aelig;ft ne c&uacute;&eth;o &eth;&aelig;s fiscn&oacute;&eth;es nym&thorn;e to &aelig-acute;lum &aacute;num <I>sed piscandi peritia genti nutta nisi ad anguillas tantum inerati.</I> Bd. 4, 13; S. 582, 43. Sm&aelig;l &aelig-acute;l <I>a small eel,</I> Cot. 161. [<I>Plat. Dut. Ger.</I> aal, <I>m: M.H. Ger. O.H. Ger.</I> &aacute;l, <I>m: Swed,</I> &auml;l, <I>m: Dan.</I> aal, <I>m: O. Nrs.</I> &aacute;ll, <I>m</I>.] DER. &aelig-acute;l-net, &aelig-acute;le-puta."
@@ -361,9 +709,19 @@
             "heading": "\u00e6\u0301-la\u0301",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "O! -- &AElig;l&aacute",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "O! -- &AElig;l&aacute",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;-l&aacute;</B> <I>O! -- &AElig;l&aacute;</I> Drihten O <I>Lord,</I> Hy. 1, 1. v. e&aacute;la, &aelig;&aacute;la."
         },
         {
@@ -372,23 +730,53 @@
             "pluralForms": [
                 "es"
             ],
-            "partOfSpeech": "noun/masculine",
-            "meaning": "",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "m.",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig-acute;-l&aelig-acute;dend,</B> es; <I>m.</I> [&aelig-acute; <I>lex,</I> l&aelig-acute;dend <I>lator,</I> from l&aelig-acute;dan <I>ferre,</I> to move or propose a law] <I>A lawgiver;</I> legislator, Ps. Spl. 9, 21."
         },
         {
             "heading": "\u00e6\u0301-l\u00e6\u0301rende",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "Teaching the law",
+            "modernEnglishMeanings": [
+                "teaching the law"
+            ],
+            "latinMeanings": [
+                "legem docens"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Si\u00f0\u00f0an him n\u00e6\u0301nig w\u00e6s \u00e6\u0301l\u00e6\u0301rendra o\u0301\u00f0er betera",
-                    "modernEnglish": "since there was none other of those teaching the law better than he.",
-                    "latin": "",
-                    "text": "Si&eth;&eth;an him n&aelig-acute;nig w&aelig;s &aelig-acute;l&aelig-acute;rendra &oacute;&eth;er betera <I>since there was none other of those teaching the law better than he.</I>"
+                    "modernEnglish": "",
+                    "latin": "since there was none other of those teaching the law better than he.",
+                    "references": [
+                        [
+                            "Elen. Kmbl.",
+                            [
+                                "1009"
+                            ]
+                        ],
+                        [
+                            "El.",
+                            [
+                                "506"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;-l&aelig-acute;rende;</B> <I>part. Teaching the law;</I> legem docens :-- Si&eth;&eth;an him n&aelig-acute;nig w&aelig;s &aelig-acute;l&aelig-acute;rendra &oacute;&eth;er betera <I>since there was none other of those teaching the law better than he.</I> Elen. Kmbl. 1009; El. 506."
@@ -397,23 +785,43 @@
             "heading": "\u00e6-l\u00e6\u0301ten",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "divorced,",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "divorced",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;-l&aelig-acute;ten</B> <I>divorced,</I> L. C.E. 7; Th. i. 364,23, = a-l&aelig-acute;ten; <I>pp. of</I> a-l&aelig-acute;tan."
         },
         {
             "heading": "\u00e6lan",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {
+                "p": "de",
+                "pp": "ed"
+            },
             "partOfSpeech": "verb",
-            "meaning": "v. a. to kindle, set on fire, burn, bake",
+            "modernEnglishMeanings": [
+                "v. a. to kindle, set on fire, burn, bake"
+            ],
+            "latinMeanings": [
+                "accendere, urere, comburere, coquere"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Ne \u00e6la\u00fe hyra leo\u0301htf\u00e6t",
-                    "modernEnglish": "neque accendunt lucernam",
-                    "latin": "",
-                    "text": "Ne &aelig;la&thorn; hyra le&oacute;htf&aelig;t <I>neque accendunt lucernam,</I>"
+                    "modernEnglish": "",
+                    "latin": "neque accendunt lucernam",
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;lan;</B> <I>p.</I> de; <I>pp.</I> ed; <I>v. a. To kindle, set on fire, burn, bake;</I> accendere, urere, comburere, coquere :-- Ne &aelig;la&thorn; hyra le&oacute;htf&aelig;t <I>neque accendunt lucernam,</I> Mt. Bos. 5, 15. &Uacute;ton wircean us tigelan and &aelig;lan h&iacute;g on f&yacute;re <I>faciamus lateres et coquamus eos igni,</I> Gen. 11, 3. F&yacute;r &aelig;le&thorn; uncyste <I>the fire burns the vices,</I> Exon. 63 b; Th. 233, 17; Ph. 526. Fl&aelig-acute;sc and b&aacute;n &aacute;dl&eacute;g &aelig;le&thorn; <I>the fire of the pile burns flesh and bones,</I> Exon. 59 a; Th. 213, 9; Ph. 222. Brond bi&thorn; ontyhte, &aelig;le&thorn; ealdgestre&oacute;n <I>let the brand be kindled, consume the old treasure,</I> 19 b; Th. 51, 8. DER. in-&aelig;lan, on-."
@@ -422,14 +830,39 @@
             "heading": "\u00e6l-beorht",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "All-bright, all-shining",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                ""
+            ],
             "examples": [
                 {
                     "oldEnglish": "Engel \u00e6lbeorht",
-                    "modernEnglish": "an all-bright angel",
-                    "latin": "",
-                    "text": "Engel &aelig;lbeorht <I>an all-bright angel,</I>"
+                    "modernEnglish": "",
+                    "latin": "an all-bright angel",
+                    "references": [
+                        [
+                            "Cd.",
+                            [
+                                "190"
+                            ]
+                        ],
+                        [
+                            "Th.",
+                            [
+                                "237",
+                                "13"
+                            ]
+                        ],
+                        [
+                            "Dan.",
+                            [
+                                "337"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;l-beorht</B> <I>All-bright, all-shining</I> :-- Engel &aelig;lbeorht <I>an all-bright angel,</I> Cd. 190; Th. 237, 13; Dan. 337: Exon. 15a; Th. 32, 1; Cri. 506: 21 b; Th. 58, 2; Cri. 929: 53 b; Th. 188, 27; Az. 52. Hw&iacute;lum cerre&thorn; eft on up r&oacute;dor &aelig;lbeorhta l&eacute;g <I>the all-bright flame returns sometimes again up to the sky,</I> Bt. Met. Fox 29,104; Met. 29, 51. v. eall-beorht."
@@ -438,14 +871,21 @@
             "heading": "\u00e6\u0301lc",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adjective",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "quisque, quivis, unusquisque, omnis"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6\u0301lc go\u0301d treo\u0301w byr\u00fe go\u0301de w\u00e6stmas",
-                    "modernEnglish": "omnis arbor bona fructus bonos facit",
-                    "latin": "",
-                    "text": "&AElig-acute;lc g&oacute;d tre&oacute;w byr&thorn; g&oacute;de w&aelig;stmas <I>omnis arbor bona fructus bonos facit,</I>"
+                    "modernEnglish": "",
+                    "latin": "omnis arbor bona fructus bonos facit",
+                    "references": null,
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig-acute;lc;</B> <I>adj.</I> [&aacute; + ge + l&iacute;c] <I>Each, any, every, all;</I> quisque, quivis, unusquisque, omnis :-- &AElig-acute;lc g&oacute;d tre&oacute;w byr&thorn; g&oacute;de w&aelig;stmas <I>omnis arbor bona fructus bonos facit,</I> Mt. Bos. 7, 17. &AElig-acute;lc w&aelig;s on twegra sestra gemete <I>capientes singul&aelig; metretas binas,</I> Jn. Bos. 2, 6. &AElig-acute;lc hine selfa begrinde&thorn; g&aacute;stes duge&eth;um <I>each deprives himself of his soul's happiness,</I> Cd. 75; Th. 91, 32 ; Gen. 1521. &AElig-acute;le fl&aelig-acute;sc <I>omnis caro,</I> Ps. Th. 64, 2. &AElig-acute;lces monnes <I>of every man,</I> Bt. Met. Fox 26, 236; Met. 26, 118. &AElig-acute;lcum <I>cuique,</I> Andr. Kmbl. 3067; An. 1536. On &aelig-acute;lcere t&iacute;de <I>omni tempore,</I> Lk. Bos. 2l, 36. In &aelig-acute;lce t&iacute;d <I>in &aelig;ternum,</I> Exon. 13b; Th. 25, 26; Cri. 406. &AElig-acute;lce d&aelig;g <I>each day,</I> Bt. Met. Fox 27,15; Met. 27, 8. [<I>Plat. Dut.</I> elk <I>each, every one</I>.]"
@@ -454,14 +894,36 @@
             "heading": "\u00e6l-ceald",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adjective",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "usquequaque frigidus"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Meahtest weor\u00fean \u00e6t \u00f0\u00e6m \u00e6lcealdan steorran \u00f0one Saturnus ha\u0301ta\u00fe",
-                    "modernEnglish": "you might be at that all-cold star which they call Saturn",
-                    "latin": "",
-                    "text": "Meahtest weor&thorn;an &aelig;t &eth;&aelig;m &aelig;lcealdan steorran &eth;one Saturnus h&aacute;ta&thorn; <I>you might be at that all-cold star which they call Saturn,</I>"
+                    "modernEnglish": "",
+                    "latin": "you might be at that all-cold star which they call Saturn",
+                    "references": [
+                        [
+                            "Bt. Met. Fox",
+                            [
+                                "24",
+                                "37"
+                            ]
+                        ],
+                        [
+                            "Met.",
+                            [
+                                "24",
+                                "19"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;l-ceald;</B> <I>adj.</I> [&aelig;l=eal] <I>All cold, most cold;</I> usquequaque frigidus :-- Meahtest weor&thorn;an &aelig;t &eth;&aelig;m &aelig;lcealdan steorran &eth;one Saturnus h&aacute;ta&thorn; <I>you might be at that all-cold star which they call Saturn,</I> Bt. Met. Fox 24, 37; Met. 24,19."
@@ -470,14 +932,29 @@
             "heading": "\u00e6lcor",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adverb",
-            "meaning": "elsewhere, besides, otherwise",
+            "modernEnglishMeanings": [
+                "elsewhere, besides, otherwise"
+            ],
+            "latinMeanings": [
+                "alias, pr&aelig;ter, nisi, aliter"
+            ],
             "examples": [
                 {
                     "oldEnglish": "For\u00f0on \u00f0am bisceope ne w\u00e6s aly\u0301fed \u00e6lcor b&uacute;tan on myran ri\u0301dan",
                     "modernEnglish": "",
                     "latin": "non enim licuerat pontificem sacrorum pr&aelig;ter in equa equitare",
-                    "text": "For&eth;on &eth;am bisceope ne w&aelig;s al&yacute;fed &aelig;lcor b&uacute;tan on myran r&iacute;dan <I>non enim licuerat pontificem sacrorum pr&aelig;ter in equa equitare,</I>"
+                    "references": [
+                        [
+                            "Bd.",
+                            [
+                                "2",
+                                "13"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;lcor;</B> <I>adv. Elsewhere, besides, otherwise;</I> alias, pr&aelig;ter, nisi, aliter :-- For&eth;on &eth;am bisceope ne w&aelig;s al&yacute;fed &aelig;lcor b&uacute;tan on myran r&iacute;dan <I>non enim licuerat pontificem sacrorum pr&aelig;ter in equa equitare,</I> Bd. 2, 13; S. 517, 7. &AElig;lcor <I>alias,</I> &AElig;lfc. Gr. 38; Som. 41, 67. v. elcor."
@@ -486,23 +963,55 @@
             "heading": "\u00e6lcra",
             "alternativeSpellings": [],
             "pluralForms": [],
-            "partOfSpeech": "adverb",
-            "meaning": "otherwise",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "adv. Otherwise",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;lcra;</B> <I>adv. Otherwise;</I> aliter, R. Ben. 62. v. &aelig;lcor."
         },
         {
             "heading": "\u00e6l-cr\u00e6ftig",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "adjective",
-            "meaning": "all-powerful, all-mighty",
+            "modernEnglishMeanings": [
+                "all-powerful, all-mighty"
+            ],
+            "latinMeanings": [
+                "omnipotens"
+            ],
             "examples": [
                 {
                     "oldEnglish": "Na\u0301n \u00feing nis \u00f0i\u0301n geli\u0301ca, ne h&uacute;ru \u00e6\u0301nig \u00e6lcr\u00e6ftigre",
-                    "modernEnglish": "nothing is like unto thee, nor is any one more all-powerful",
-                    "latin": "",
-                    "text": "N&aacute;n &thorn;ing nis &eth;&iacute;n gel&iacute;ca, ne h&uacute;ru &aelig-acute;nig &aelig;lcr&aelig;ftigre <I>nothing is like unto thee, nor is any one more all-powerful,</I>"
+                    "modernEnglish": "",
+                    "latin": "nothing is like unto thee, nor is any one more all-powerful",
+                    "references": [
+                        [
+                            "Bt. Met. Fox",
+                            [
+                                "20",
+                                "76"
+                            ]
+                        ],
+                        [
+                            "Met.",
+                            [
+                                "20",
+                                "38"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;l-cr&aelig;ftig;</B> <I>adj. All-powerful, all-mighty;</I> omnipotens :-- N&aacute;n &thorn;ing nis &eth;&iacute;n gel&iacute;ca, ne h&uacute;ru &aelig-acute;nig &aelig;lcr&aelig;ftigre <I>nothing is like unto thee, nor is any one more all-powerful,</I> Bt. Met. Fox 20, 76; Met. 20, 38."
@@ -511,26 +1020,64 @@
             "heading": "\u00e6ld",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "fire,",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "fire",
+                    "references": [
+                        [
+                            "Exon.",
+                            [
+                                "22"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;ld</B> <I>fire,</I> Exon. 22 a; Th. 59, 30; Cri. 960. v. &aelig;led."
         },
         {
             "heading": "\u00e6ld",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "age.",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "age.",
+                    "references": [
+                        [
+                            "Exon.",
+                            [
+                                "45"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;ld</B> <I>age.</I> Exon. 45 a; Th. 152. 11; G&uacute;. 807. v. &aelig;ldu."
         },
         {
             "heading": "\u00e6ldan",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "To delay, forbear, postpone, conceal",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                ""
+            ],
             "examples": [],
             "text": "<B>&aelig;ldan</B> <I>To delay, forbear, postpone, conceal</I> :-- &AElig;ldyst, Ps. Spl. C. 88,37. &AElig;lde, Ps. Surt. 77, 21: Mt. Rush. Stv. 25, 5: Bd. 1, 27; S. 491, 31; MS.B. v. yldan."
         },
@@ -538,14 +1085,26 @@
             "heading": "\u00e6lde",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "men",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                ""
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6lda bearnum",
-                    "modernEnglish": "for the sons of men",
-                    "latin": "",
-                    "text": "&AElig;lda bearnum <I>for the sons of men,</I>"
+                    "modernEnglish": "",
+                    "latin": "for the sons of men",
+                    "references": [
+                        [
+                            "Exon.",
+                            [
+                                "21"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;lde</B> <I>men</I> :-- &AElig;lda bearnum <I>for the sons of men,</I> Exon. 21 b; Th. 58, 18; Cri. 937. &AElig;nig &aelig;lda cynnes <I>any one of the race of men,</I> 19a; Th. 49, 4; Cri. 780: 44b; Th. 151, 16; G&uacute;. 796. Mid &aelig;ldum <I>with men,</I> 13b; Th. 25, 25 ; Cri. 406. v. ylde."
@@ -554,9 +1113,19 @@
             "heading": "\u00e6lding",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "delay,",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "delay",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;lding</B> <I>delay,</I> Mt. Rush. Stv. 24, 48. v. ylding."
         },
         {
@@ -565,17 +1134,31 @@
                 "aldu"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "the elders",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "the elders",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;ldo,</B> aldu <I>the elders;</I> seniores, Mt. Lind. Stv. 21, 23. v. &aelig;ldu."
         },
         {
             "heading": "\u00e6ldran",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "pl. Parents",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                "parentes"
+            ],
             "examples": [],
             "text": "<B>&aelig;ldran;</B> <I>pl. Parents;</I> parentes :-- M&iacute;ne &aelig;ldran, Ps. C. 65 ; Ps. Grn. ii. 278, 65. v. yldra."
         },
@@ -586,9 +1169,19 @@
                 "aldro"
             ],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "parents,",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "parents",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;ldru,</B> &aelig;ldro, aldro <I>parents,</I> Mk. Rush. War. 13, 12: Lk. Rush. War. 2, 27, 41, 43. v. &aelig;ldran."
         },
         {
@@ -599,14 +1192,28 @@
             "pluralForms": [
                 "e"
             ],
+            "conjugations": {},
             "partOfSpeech": "noun/feminine",
-            "meaning": "",
+            "modernEnglishMeanings": [
+                ""
+            ],
+            "latinMeanings": [
+                "s&aelig;culum, senectus"
+            ],
             "examples": [
                 {
                     "oldEnglish": "In \u00f0a\u0301 \u00e6\u0301restan \u00e6ldu",
-                    "modernEnglish": "in his first age",
-                    "latin": "",
-                    "text": "In &eth;&aacute; &aelig-acute;restan &aelig;ldu <I>in his first age,</I>"
+                    "modernEnglish": "",
+                    "latin": "in his first age",
+                    "references": [
+                        [
+                            "Exon.",
+                            [
+                                "34"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;ldu,</B> &aelig;ld, e; <I>f.</I> I. <I>age, old age;</I> s&aelig;culum, senectus :-- In &eth;&aacute; &aelig-acute;restan &aelig;ldu <I>in his first age,</I> Exon. 34a; Th. 108, 30; G&uacute;. 80. On &aelig;lde <I>in senectute,</I> Ps. C. 142: Ps. Surt. 91, 15 : 70, 18. II. <I>an age, century;</I> &aelig;vum, centuria :-- &thorn;urh &aelig;lda t&iacute;d <I>per s&aelig;cula s&aelig;culorum,</I> Exon. 45 a; Th. 152, 11; G&uacute;. 807. Wi&eth; &aelig;lda <I>against the age,</I> 81 a; Th. 305, 16; F&auml;. 89. v. yldu."
@@ -617,23 +1224,72 @@
             "pluralForms": [
                 "e"
             ],
-            "partOfSpeech": "noun/feminine",
-            "meaning": "an allurement, a blandishment",
-            "examples": [],
+            "conjugations": {},
+            "partOfSpeech": "",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "f. An allurement, a blandishment",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;lecung,</B> e; <I>f. An allurement, a blandishment;</I> blandimentum, C.R. Ben. 2."
         },
         {
             "heading": "\u00e6led",
             "alternativeSpellings": [],
             "pluralForms": [],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "g.",
+            "modernEnglishMeanings": [],
+            "latinMeanings": [
+                "ignis, incendium"
+            ],
             "examples": [
                 {
                     "oldEnglish": "\u00c6led w\u00e6s micel",
-                    "modernEnglish": "the fire was great",
-                    "latin": "",
-                    "text": "&AElig;led w&aelig;s micel <I>the fire was great,</I>"
+                    "modernEnglish": "",
+                    "latin": "the fire was great",
+                    "references": [
+                        [
+                            "Cd.",
+                            [
+                                "186"
+                            ]
+                        ],
+                        [
+                            "Th.",
+                            [
+                                "231",
+                                "6"
+                            ]
+                        ],
+                        [
+                            "Dan.",
+                            [
+                                "243"
+                            ]
+                        ]
+                    ],
+                    "text": ""
+                },
+                {
+                    "oldEnglish": "Ha\u0301t bi\u00fe monegum egesli\u0301c \u00e6led",
+                    "modernEnglish": "",
+                    "latin": "the dreadful fire shall be hot to many",
+                    "references": [
+                        [
+                            "Exon.",
+                            [
+                                "63"
+                            ]
+                        ]
+                    ],
+                    "text": ""
                 }
             ],
             "text": "<B>&aelig;led,</B> <I>g.</I> &aelig;ldes; <I>m.</I> [<I>pp. of</I> &aelig;lan] <I>Fire, conflagration;</I> ignis, incendium :-- &AElig;led w&aelig;s micel <I>the fire was great,</I> Cd. 186; Th. 231, 6; Dan. 243. H&aacute;t bi&thorn; monegum egesl&iacute;c &aelig;led <I>the dreadful fire shall be hot to many,</I> Exon. 63 a; Th. 233, 9; Ph. 522. &AElig;led weccan <I>to light afire,</I> Cd. 140; Th. 175, 26; Gen. 2901. &AElig;ldes fulle <I>full of fire.</I> Exon. 22a; Th. 59, 30; Cri. 960. [<I>O. Sax.</I> eld, <I>m. ignis: O. Nrs.</I> eldr, <I>m. ignis</I>.]"
@@ -644,9 +1300,19 @@
             "pluralForms": [
                 "es"
             ],
+            "conjugations": {},
             "partOfSpeech": "",
-            "meaning": "n. Flame of fire",
-            "examples": [],
+            "modernEnglishMeanings": [],
+            "latinMeanings": [],
+            "examples": [
+                {
+                    "oldEnglish": "",
+                    "modernEnglish": "",
+                    "latin": "n. Flame of fire",
+                    "references": null,
+                    "text": ""
+                }
+            ],
             "text": "<B>&aelig;led-f&yacute;r,</B> es; <I>n. Flame of fire;</I> incendii fiamrna, Exon. 61a; Th. 223, 27; Ph. 366."
         }
     ],
