@@ -6,7 +6,6 @@ from tauparsing.core import *
 import logging 
 from lxml import etree 
 
-logging.basicConfig(level=logging.DEBUG)
 
 class Page(object):
     def __init__(self):
@@ -301,6 +300,7 @@ class BosworthAndTollerParser(Parser):
         return (partOfSpeech, conjugations, modernEnglishMeanings, latinMeanings)
 
     def _getExamples(self, inputText, marker):
+
         m = marker 
 
         examples = []
@@ -321,6 +321,8 @@ class BosworthAndTollerParser(Parser):
                 n += 1 
             else:
                 break 
+
+        logging.debug("Got {} examples.".format(len(examples)))
 
         return examples 
 
@@ -346,15 +348,24 @@ class BosworthAndTollerParser(Parser):
 
         references = self._getReferenceList(inputText, marker)
 
+        oldEnglish = replaceEntities(oldEnglish).strip()
+        meaning = removeTrailingPunctuation(meaning.strip()).strip()
+
         example = Example()
 
-        example.oldEnglish = replaceEntities(oldEnglish).strip() 
-        example.latin = removeTrailingPunctuation(meaning.strip()).strip() 
+        example.oldEnglish = oldEnglish 
+
+        if isLatin(meaning):
+            example.latin = meaning 
+        else:
+            example.modernEnglish = meaning 
+
         example.references = references 
 
         return example 
 
     def _getReferenceList(self, inputText, marker):
+
         m = marker 
 
         references = []
@@ -381,13 +392,16 @@ class BosworthAndTollerParser(Parser):
         if len(references) == 0:
             return None 
 
+        logging.debug("Got {} references.".format(len(references))) 
+
         return references 
 
     def _getReference(self, inputText, marker):
+
         m = marker 
 
-        source = ""
-        pageNumbers = []
+        source = None 
+        pageNumbers = None 
         abbreviations = sorted([a for a, b in referenceAbbreviations.items()], key = lambda a: len(a), reverse=True)
 
         for a in abbreviations:
@@ -396,13 +410,17 @@ class BosworthAndTollerParser(Parser):
                 m.p += len(a)
                 break 
 
-        pageNumbers = self._getPageNumberList(inputText, m)
-
-        if source == "" or pageNumbers == None:
+        if source == None:
             return None 
 
-        return (source, pageNumbers)
-        
+        pageNumbers = self._getPageNumberList(inputText, m)
+
+        if pageNumbers == None:
+            return None 
+
+        logging.debug("Got reference '{}'.".format(source))
+
+        return (source, pageNumbers)        
 
     def _getPageNumberList(self, inputText, marker):
 
@@ -421,7 +439,7 @@ class BosworthAndTollerParser(Parser):
                     break 
 
             self._getWhiteSpace(inputText, m)
-            pageNumber = self._getInteger(inputText, m)
+            pageNumber = self._getPageNumber(inputText, m)
 
             if pageNumber != None:
                 pageNumbers.append(pageNumber)
@@ -432,9 +450,11 @@ class BosworthAndTollerParser(Parser):
         if len(pageNumbers) == 0:
             return None 
 
+        logging.debug("Got page numbers {}.".format(pageNumbers))
+
         return pageNumbers 
 
-    def _getInteger(self, inputText, marker):
+    def _getPageNumber(self, inputText, marker):
 
         m = marker 
 
@@ -449,6 +469,8 @@ class BosworthAndTollerParser(Parser):
 
         if t == "":
             return None 
+
+        logging.debug("Got number '{}'.".format(t))
 
         return t 
 
@@ -506,6 +528,8 @@ def compilePages():
                 json.dump(page.toDictionary(), fo2, indent=4)
 
 def compileAbbreviations():
+    # This function takes the abbreviations data in the XML file and makes it into a Python object, which it also saves to a JSON file, for much easier access.
+
     abbreviations = []
 
     tree = etree.parse("bosworth_and_toller_abbreviations.xml")
@@ -528,14 +552,22 @@ def compileAbbreviations():
 
         abbreviations.append(abbreviation)
 
+    logging.info("Found {} abbreviations.".format(len(abbreviations)))
+    logging.info("Found {} spellings of abbreviations.".format(len(referenceAbbreviations.items())))
+
+    # Save the list of abbreviations to a JSON file.
     with open("bosworth_and_toller_abbreviations.json", "w") as fo:
         json.dump(abbreviations, fo, indent=4)
 
+    # Put each spelling into a dictionary so that they can be searched through later.
     for abbreviation in abbreviations:
         for spelling in abbreviation["spellings"]:
             referenceAbbreviations[spelling] = abbreviation 
 
+
 if __name__ == "__main__":
+    
+    logging.basicConfig(level=logging.INFO)
 
     compileAbbreviations()
     compilePages()
